@@ -52,9 +52,9 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 Lecture: MWF 11am-12pm in 150 Wheeler
 
-Date |	Topic |	Lecture |	Reading	| Assignment
+**Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
-Fir 01/17 | Introduction | slides, notebook | reading | Form your team
+Fri 01/17 | Introduction | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | reading | Form your team
 
 ### Reading material
 
