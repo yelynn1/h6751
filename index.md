@@ -1,6 +1,6 @@
 ## BT5153 HOMEPAGE
 
-## <font color='firebrick'>Content</font>
+### <font color='firebrick'>Content</font>
 Welcome to this class. We hope you will enjoy it!
 
 This module aims to prepare graduate students pursuing a master degree in business analytics for advanced data science topics and their application in business analytics. Here is he focus of this course will be how to apply these techniques on real business problems, where we look at several applications including sentiment analysis, recommendation system, machine translation, text summarization, portfolio optimization, spam detection, automatic harry potter writing and so on.the tentative topics of this course:
@@ -60,7 +60,7 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 - Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu)
 
-### Calendar
+### <font color='firebrick'>Schedule</font>
 
 Lecture: MWF 11am-12pm in 150 Wheeler
 
