@@ -3,18 +3,30 @@
 
 Welcome to this class. We hope you will enjoy it!
 
-And ddd 
-This is the first time this class is offered by the Mechanical Engineering Department so we will be experimenting with the content a bit. Here is the tentative content. We will make some adjustments as we go depending on interest and time left:
-
-- Gaussian process regression
-- Support vector machine for classification; kernel machines
+This module aims to prepare graduate students pursuing a master degree in business analytics for advanced data science topics and their application in business analytics. Here is he focus of this course will be how to apply these techniques on real business problems, where we look at several applications including sentiment analysis, recommendation system, machine translation, text summarization, portfolio optimization, spam detection, automatic harry potter writing and so on.the tentative topics of this course:
+- Data visualization and interpretable machine learning
+- Bayesian learning (Naive Bayes and Hidden markov model)
 - Deep learning
+- Autoencoder
+- Variational Autoencoder
+- Convolutional Neural Network
 - Recurrent Neural Network
 - Generative Adversarial Networks (GAN)
-- Physics-informed learning machines (a new method specific to ME!)
-- Reinforcement learning
-- Markov decision processes, Bellman equation, Monte-Carlo tree search, and dynamic programming
-- Temporal-difference learning (if time allows)
+- Attention model
+- Seq2seq model
+
+At the same time, the focus of this course will be how to apply these techniques on real business problems, where we look at several applications:
+- sentiment analysis
+- part-of-speech tagging
+- name entity recognition
+- recommendation system
+- machine translation
+- portfolio optimization
+- image generation
+- spam detection
+- automatic harry potter writing and so on.
+
+The above is the tentative content, which may be modified during the semester.
 
 The material for this class is hosted on github. It can be downloaded from the main repository page
  [https://github.com/stanford-me343/stanford-me343.github.io](https://github.com/stanford-me343/stanford-me343.github.io)
