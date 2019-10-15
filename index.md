@@ -45,9 +45,16 @@ Office hours with TAs are held in the Huang basement. Prof. Darve's office hours
 
 ### Contact information
 
-- Main instructor: Eric Darve, [darve@stanford.edu](mailto:darve@stanford.edu), office 520-125
-- Lecturer: Hojat Ghorbanidehno, [hojjatgh@stanford.edu](mailto:hojjatgh@stanford.edu)
+- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu)
+
+### Calendar
+
+Lecture: MWF 11am-12pm in 150 Wheeler
+
+Date |	Topic |	Lecture |	Reading	| Assignment
+------------ | ------------- | ------------- | ------------- | -------------
+Fir 01/17 | Introduction | slides, notebook | reading | Form your team
 
 ### Reading material
 
