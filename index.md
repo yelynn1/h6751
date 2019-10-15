@@ -3,6 +3,7 @@
 
 Welcome to this class. We hope you will enjoy it!
 
+And ddd 
 This is the first time this class is offered by the Mechanical Engineering Department so we will be experimenting with the content a bit. Here is the tentative content. We will make some adjustments as we go depending on interest and time left:
 
 - Gaussian process regression
