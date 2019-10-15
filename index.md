@@ -1,4 +1,7 @@
-## BT5153 HOMEPAGE
+## BT5153 Advanced Topics in Data Science
+
+##### NUS, MSBA / Spring 2020
+
 
 ### <font color='firebrick'>Content</font>
 Welcome to this class. We hope you will enjoy it!
