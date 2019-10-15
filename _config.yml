@@ -1,9 +1,9 @@
 # Site settings
-title: ME 343 Machine Learning for Mechanical Engineering Winter 18-19
-email: darve@stanford.edu
-description: "Course materials and notes for Stanford class ME 343, Machine Learning for Mechanical Engineering"
+title: BT5153 Advanced Topics in  Machine Learning for Business Analytics  Spring 19-20
+email: diszr@nus.edu.sg
+description: "Course webiste for BT5153"
 baseurl: ""
-url: "http://stanford-me343.github.io"
-github_username: stanford-me343
+url: "http://nusmsba.github.io"
+github_username: ""
   
 theme: jekyll-theme-minimal
