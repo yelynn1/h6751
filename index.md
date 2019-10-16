@@ -60,7 +60,7 @@ Class participation.
 
 #### Assignments (25%)
 
-There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. 
+There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignment will be announced later. 
 
 - **Credit**:
   * Assignment 1 (10%): 
@@ -84,7 +84,7 @@ You are required to form a project group with 4-5 members. Your project task is 
 
 ## <font color='DarkOrange'>Schedule</font>
 
-Lecture: MWF 11am-12pm in 150 Wheeler
+Lecture: SOC 23
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
