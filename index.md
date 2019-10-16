@@ -1,39 +1,12 @@
-## BT5153 Advanced Topics in Data Science
+# BT5153 Advanced Topics in Data Science
 
-##### <center>NUS, MSBA / Spring 2020</center>
+#### <center>NUS, MSBA / Spring 2020</center>
 
-### <font color='DarkOrange'>Content</font>
-Welcome to this class. We hope you will enjoy it!
+## <font color='DarkOrange'>Content</font>
 
-This module aims to prepare graduate students pursuing a master degree in business analytics for advanced data science topics and their application in business analytics. Here is he focus of this course will be how to apply these techniques on real business problems, where we look at several applications including sentiment analysis, recommendation system, machine translation, text summarization, portfolio optimization, spam detection, automatic harry potter writing and so on.the tentative topics of this course:
-- Data visualization and interpretable machine learning
-- Bayesian learning (Naive Bayes and Hidden markov model)
-- Deep learning
-- Autoencoder
-- Variational Autoencoder
-- Convolutional Neural Network
-- Recurrent Neural Network
-- Generative Adversarial Networks (GAN)
-- Attention model
-- Seq2seq model
-
-At the same time, the focus of this course will be how to apply these techniques on real business problems, where we look at several applications:
-- sentiment analysis
-- part-of-speech tagging
-- name entity recognition
-- recommendation system
-- machine translation
-- portfolio optimization
-- image generation
-- spam detection
-- automatic harry potter writing and so on.
+This module aims to prepare graduate students pursuing a master degree in business analytics for advanced data science topics and their application in business analytics. Therefore, we design this module to help students develop a deeper understanding of machine learning models and explore their applications.The tentative topics of this course include: data visualization and interpretable machine learning, bayesian learning, deep learning, autoencoder, variational autoencoder, convolutional neural network, recurrent neural network, generative adversarial networks (GAN), attention model and so on. At the same time, we investigate several applications such as various Natural Language processing tasks (sentiment analysis, part-of-speech tagging, name entity recognition, machine translation), recommendation system, image generation, spam detection, portfolio optimization, face recognition and automatic harry potter writing.
 
 The above is the tentative content, which may be modified during the semester.
-
-The material for this class is hosted on github. It can be downloaded from the main repository page
- [https://github.com/stanford-me343/stanford-me343.github.io](https://github.com/stanford-me343/stanford-me343.github.io)
-
- If you click on the green button "Clone or download" you can download all the files as a zip archive.
 
 ### Office hours
 
