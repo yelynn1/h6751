@@ -47,6 +47,7 @@ You are required to form a project group with 4-5 members. Your project task is 
 
 ### Course material and links
 
+- [Timetable](#schedule)
 - [AlphaGo slides](AlphaGo/AlphaGo.html)
 - [Class feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe2bZaO6MB8ubaKCBqbsEVCwOGArBsm2sAI6guunUpPU6jg2Q/viewform)
 - [Final project](project/project.pdf)
