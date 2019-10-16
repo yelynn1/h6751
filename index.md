@@ -17,14 +17,13 @@ In summary, the key takeaways of this course are as follows:
 <u>The above is the tentative content, which may be modified during the semester.</u>
 
 	
-### Office hours
+#### Instructor:
 
-- Tuesday: 7 PM to 8 PM (Hojat)
-- Wednesday: 10 AM to 11 AM (Ziyi/Hojat)
-- Thursday: 10 AM to 11 AM (Ziyi)
-- Friday: 9 AM to 11 AM (Prof. Darve)
+<p>[Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)</p>
 
-Office hours with TAs are held in the Huang basement. Prof. Darve's office hours are in building 520, room 125.
+#### Teaching Assistant:
+
+<p>TBA</p>
 
 ### Course material and links
 
