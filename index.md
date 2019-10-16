@@ -1,4 +1,4 @@
-# BT5153 Advanced Topics in Data Science
+# BT5153 Applied Machine Learning for Business Analytics
 
 #### <center>NUS, MSBA / Spring 2020</center>
 
