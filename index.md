@@ -69,7 +69,7 @@ Lecture: MWF 11am-12pm in 150 Wheeler
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
-Fri 01/17 | Introduction | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | notes(note/week1.md) | Form your team
+Fri 01/17 | Introduction | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
 
 ### Reading material
 
