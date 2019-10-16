@@ -14,7 +14,7 @@ In summary, the key takeaways of this course are as follows:
 - Select appropriate machine learning tools/ techniques to uncover patterns and relationships, extract useful knowledge and support decision making in business applications;
 - Craft a real-world problem and assemble required tools to yield meaningful solutions and conclusions.
 
-_The above is the tentative content, which may be modified during the semester._
+<u>The above is the tentative content, which may be modified during the semester.</u>
 
 	
 ### Office hours
