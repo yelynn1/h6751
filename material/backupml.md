@@ -32,6 +32,17 @@ General book about machine learning: [The Hundred-Page Machine Learning Book](ht
 - [AlphaZero](https://arxiv.org/abs/1712.01815), "Mastering Chess and Shogi by self-play with a general reinforcement learning algorithm," by Silver et al.
 - [Reinforcement learning: an introduction](https://searchworks.stanford.edu/view/5320501) by R.S. Sutton and A.G. Barto; [draft of second edition](http://incompleteideas.net/book/bookdraft2017nov5.pdf).
 - [Course on reinforcement learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver (2015). David was one of the lead researchers on AlphaGo.
+
+
+
+## Homework assignments
+
+- [Homework 3](hwk/hw3.pdf)
+- [Homework 2](hwk/hw2.pdf)
+- [Quizz 3](hwk/quizz3.pdf)
+- [Quizz 2](hwk/quizz2.pdf)
+- [Quizz 1](hwk/quizz1.pdf)
+- [Homework 1](hwk/hw1.zip)
 - [Curated list of resources on reinforcement learning](https://github.com/aikorea/awesome-rl), by H. Kim and J. Kim.
 - [OpenAI Gym](https://gym.openai.com/), toolkit for developing and comparing reinforcement learning algorithms
 
