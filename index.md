@@ -1,6 +1,6 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-##### <center>NUS, MSBA / Spring 2020</center>
+#### <center>NUS, MSBA / Spring 2020</center>
 
 ## <font color='DarkOrange'>Content</font>
 
@@ -16,18 +16,18 @@ In summary, the key takeaways of this course are as follows:
 
 <u>The above is the tentative content, which may be modified during the semester.</u>
 
-#### Contact Information:
+### Contact Information:
 
 - Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: TBA
 
-#### Prerequisites:
+### Prerequisites:
 
 - Basic knowledge in Python programing 
 - Basic math knowledge
 - DSC5106 Foundation in Data Analytics I
 
-#### Reference Books
+### Reference Books
 
 The following books are helpful, but not required. 
 
@@ -40,7 +40,7 @@ The following books are helpful, but not required.
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
 
-#### Course material and links
+### Course material and links
 
 - [Timetable](#schedule)
 - [Data Science/Machine Learning](material/dspractice.md)
@@ -54,11 +54,11 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-#### Assignments (5%)
+### Class participation (5%)
 
 Class participation.
 
-#### Assignments (25%)
+### Assignments (25%)
 
 There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignment will be announced later. 
 
@@ -67,11 +67,11 @@ There are two assignments. One is a weekly assignment and the other is a mini fo
   * Kaggle competition (15%):
  
 
-#### Midterm Exam (20%)
+### Midterm Exam (20%)
 
 Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
 
-#### Group Project （50%）
+### Group Project （50%）
 
 You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids.
 
