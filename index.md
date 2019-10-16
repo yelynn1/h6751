@@ -41,9 +41,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
----
 > - *2020-01-17*: Welcome to BT5153. We hope you will enjoy it!
-----
 > - *2020-01-04*: ~~this site has been public.~~
 
 ## <font color='DarkOrange'>Assessment</font>
