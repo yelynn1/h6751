@@ -23,15 +23,20 @@ In summary, the key takeaways of this course are as follows:
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Assignments (20%)
+### Assignments (25%)
 
-There are two assignments 
+There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. 
 
-### Midterm Exam (25%)
+- **Credit**:
+  * Assignment 1 (10%): 
+  * Kaggle competition (15%):
+ 
+
+### Midterm Exam (20%)
 
 Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
 
-### Group Project
+### Group Project （50%）
 
 You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids.
 
