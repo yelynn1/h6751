@@ -1,6 +1,6 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-#### <center>NUS, MSBA / Spring 2020</center>
+##### <center>NUS, MSBA / Spring 2020</center>
 
 ## <font color='DarkOrange'>Content</font>
 
@@ -16,18 +16,18 @@ In summary, the key takeaways of this course are as follows:
 
 <u>The above is the tentative content, which may be modified during the semester.</u>
 
-### Contact Information:
+#### Contact Information:
 
 - Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: TBA
 
-### Prerequisites:
+#### Prerequisites:
 
 - Basic knowledge in Python programing 
 - Basic math knowledge
 - DSC5106 Foundation in Data Analytics I
 
-### Reference Books
+#### Reference Books
 
 The following books are helpful, but not required. 
 
@@ -40,7 +40,7 @@ The following books are helpful, but not required.
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
 
-### Course material and links
+#### Course material and links
 
 - [Timetable](#schedule)
 - [Data Science Tools](material/dspractice.md)
@@ -55,7 +55,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Assignments (25%)
+#### Assignments (25%)
 
 There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. 
 
@@ -64,11 +64,11 @@ There are two assignments. One is a weekly assignment and the other is a mini fo
   * Kaggle competition (15%):
  
 
-### Midterm Exam (20%)
+#### Midterm Exam (20%)
 
 Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
 
-### Group Project （50%）
+#### Group Project （50%）
 
 You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids.
 
@@ -77,12 +77,9 @@ You are required to form a project group with 4-5 members. Your project task is 
   * Project presentation (25%)
   * Project final report (15%)
 
-### Contact information
 
-- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
-- TA: Ziyi Yang, [ziyi.yang@stanford.edu](mailto:ziyi.yang@stanford.edu)
 
-### <font color='DarkOrange'>Schedule</font>
+## <font color='DarkOrange'>Schedule</font>
 
 Lecture: MWF 11am-12pm in 150 Wheeler
 
@@ -94,8 +91,8 @@ Fri 01/17 | Ensemble | [slides](project/project.pdf), [notebook](code/DNN SGD.ip
 Fri 01/17 | Bayesian Learning: Navie Bayes | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
 Fri 01/17 | Bayesian Learning: Hidden Markov Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
 Fri 01/17 |  From Logistic Regression to Deep Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/17 | Autoencoder | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/17 | Word2Vec | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 01/17 | Representation Learning: Autoencoder | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 01/17 | Representation learning: Word2Vec | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/17 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 
