@@ -79,3 +79,26 @@ recognition](https://link.springer.com/article/10.1023/A:1009715923555) by Burge
 - Intermediate review paper; [Prediction with Gaussian processes from linear regression to linear prediction and beyond](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.1226&rep=rep1&type=pdf) by Williams
 - Longer review paper with an introduction to Gaussian processes on a fairly elementary level; [Gaussian processes for machine learning](https://infoscience.epfl.ch/record/161301/files/bayesgp-tut.pdf) by Seeger
 
+## Syllabus
+
+### Homework and final project
+
+We currently planned for 3 homework assignments, on kernel machines, GANs, and reinforcement learning.
+
+There will be a final report due on Wednesday March 20, 11:59 PM.
+
+The grade will be computed as follows:
+
+- 3 homework assignments: 60%
+- 1 final project: 40%
+
+For late policy, we will accept assignments up to 2 day late, with a 10% penalty. Assignments will not be accepted after that. Email [Eric Darve](mailto:darve@stanford.edu) to request an exception (e.g., travel to a conference, illness in the family).
+
+There will not be any late days for the final project.
+
+Homework assignments will be submitted using gradescope. To register for this class on gradescope use the following code: MPW2X3. The link is 
+[https://www.gradescope.com/courses/35330](https://www.gradescope.com/courses/35330)
+
+Most of you should be registered already.
+
+
