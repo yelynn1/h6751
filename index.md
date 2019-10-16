@@ -44,15 +44,11 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 - [Timetable](#schedule)
 - [AlphaGo slides](AlphaGo/AlphaGo.html)
-- [Class feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe2bZaO6MB8ubaKCBqbsEVCwOGArBsm2sAI6guunUpPU6jg2Q/viewform)
 - [Final project](project/project.pdf)
 - [Homework assignment folder](hwk.md)
 - [Demo computer code](code.md)
-- [Piazza forum](https://piazza.com/class/jqffwoswj8k50a)
-- [Gradescope](https://www.gradescope.com/); used to submit your assignments, see your grades, and request regrades for assignments.
-- [Mailing list](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819); the instructors use this mailing list to send important messages; **please check that you are registered.**
-- [Syllabus](syllabus.md)
-- [Interactive polls on pollev](https://pollev.com/ericdarve886)
+- [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
+- [Honor Code](syllabus.md)
 
 ## <font color='DarkOrange'>Announcement</font>
 
@@ -78,9 +74,9 @@ Students are expected to attend the Midterm Examination. It will be open-book an
 You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids.
 
 - **Credit**:
-  * Project proposal (5%) 
+  * Project proposal (10%) 
   * Project presentation (25%)
-  * Project final report (30%)
+  * Project final report (15%)
 
 ### Contact information
 
