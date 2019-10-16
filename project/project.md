@@ -8,7 +8,7 @@ More detailed instructions and the guidelines for this course project can be ref
 
 You might look at recent deep learning publications from top-tier machine learning conferences and labs, as well as other resources below.
 
-- [Neurips](https://neurips.cc/): Neural Information Processing Systems
+- [NeurIPS](https://neurips.cc/): Neural Information Processing Systems
 - [ICML](https://icml.cc/): International Conference on Machine Learning
 - [Analyzing CS trends from ICML and NIPS Research Papers](https://goo.gl/RaUUDV)
 - [EMNLP](https://www.emnlp-ijcnlp2019.org/): Empirical Methods in Natural Language Processing
