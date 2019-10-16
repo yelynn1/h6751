@@ -39,6 +39,25 @@ The following books are helpful, but not required.
 
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
+
+### Course material and links
+
+- [Timetable](#schedule)
+- [AlphaGo slides](AlphaGo/AlphaGo.html)
+- [Class feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe2bZaO6MB8ubaKCBqbsEVCwOGArBsm2sAI6guunUpPU6jg2Q/viewform)
+- [Final project](project/project.pdf)
+- [Homework assignment folder](hwk.md)
+- [Demo computer code](code.md)
+- [Piazza forum](https://piazza.com/class/jqffwoswj8k50a)
+- [Gradescope](https://www.gradescope.com/); used to submit your assignments, see your grades, and request regrades for assignments.
+- [Mailing list](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819); the instructors use this mailing list to send important messages; **please check that you are registered.**
+- [Syllabus](syllabus.md)
+- [Interactive polls on pollev](https://pollev.com/ericdarve886)
+
+## <font color='DarkOrange'>Announcement</font>
+
+- 2020-01-17: Welcome to this class. We hope you will enjoy it!
+
 ## <font color='DarkOrange'>Assessment</font>
 
 ### Assignments (25%)
@@ -62,20 +81,6 @@ You are required to form a project group with 4-5 members. Your project task is 
   * Project proposal (5%) 
   * Project presentation (25%)
   * Project final report (30%)
-
-### Course material and links
-
-- [Timetable](#schedule)
-- [AlphaGo slides](AlphaGo/AlphaGo.html)
-- [Class feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe2bZaO6MB8ubaKCBqbsEVCwOGArBsm2sAI6guunUpPU6jg2Q/viewform)
-- [Final project](project/project.pdf)
-- [Homework assignment folder](hwk.md)
-- [Demo computer code](code.md)
-- [Piazza forum](https://piazza.com/class/jqffwoswj8k50a)
-- [Gradescope](https://www.gradescope.com/); used to submit your assignments, see your grades, and request regrades for assignments.
-- [Mailing list](https://mailman.stanford.edu/mailman/listinfo/me343-winter1819); the instructors use this mailing list to send important messages; **please check that you are registered.**
-- [Syllabus](syllabus.md)
-- [Interactive polls on pollev](https://pollev.com/ericdarve886)
 
 ### Contact information
 
