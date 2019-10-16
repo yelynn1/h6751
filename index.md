@@ -79,6 +79,7 @@ Fri 01/17 | Autoencoder | [slides](project/project.pdf), [notebook](code/DNN SGD
 Fri 01/17 | Word2Vec | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/17 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+
 ### Reading material
 
 [Curated list of scientific machine learning papers](http://www.cs.colorado.edu/~paco3637/sciml-refs.html) from Paul Constantine.
