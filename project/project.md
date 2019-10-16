@@ -31,7 +31,6 @@ You might look at recent deep learning publications from top-tier machine learni
 - Use a 3rd-party web scraper to scrape content: [Octoparse](http://www.octoparse.com/) and other [web scrapers](http://www.octoparse.com/blog/9-free-web-scrapers-that-you-cannot-miss)
 
 #### Previous Years Project Reports
+---
+- [Spring 2019](2019fyp.md)
 
----
-[Spring 2019](2019fyp.md)
----
