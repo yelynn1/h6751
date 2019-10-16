@@ -2,7 +2,7 @@
 
 
 As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. 
-More detailed instructions and the guidelines for this course project can be referred [here](project/project.pdf)
+More detailed instructions and the guidelines for this course project can be referred [here](../project/project.pdf)
 
 To inspire IDEAS, you might look at recent deep learning publications from top-tier NLP conferences and labs, as well as other resources below.
 
