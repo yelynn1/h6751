@@ -43,8 +43,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 #### Course material and links
 
 - [Timetable](#schedule)
-- [Data Science Tools](material/dspractice.md)
-- [Machine Learning Model](material/mltopic.md)
+- [Data Science/Machine Learning](material/dspractice.md)
 - [Final project](project/project.pdf)
 - [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
@@ -54,6 +53,10 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 1. *2020-01-17*: **Welcome to BT5153. We hope you will enjoy it!**
 
 ## <font color='DarkOrange'>Assessment</font>
+
+#### Assignments (5%)
+
+Class participation.
 
 #### Assignments (25%)
 
