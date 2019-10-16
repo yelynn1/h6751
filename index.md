@@ -17,13 +17,11 @@ In summary, the key takeaways of this course are as follows:
 <u>The above is the tentative content, which may be modified during the semester.</u>
 
 	
-#### Instructor:
+#### Contact Information:
 
-<p>[Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)</p>
+- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)</p>
+- TA: TBA
 
-#### Teaching Assistant:
-
-<p>TBA</p>
 
 ### Course material and links
 
