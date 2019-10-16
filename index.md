@@ -43,10 +43,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 ### Course material and links
 
 - [Timetable](#schedule)
-- [AlphaGo slides](AlphaGo/AlphaGo.html)
+- [Data Science Tools](material/dspractice.md)
+- [Machine Learning Model](material/mltopic.md)
 - [Final project](project/project.pdf)
-- [Homework assignment folder](hwk.md)
-- [Demo computer code](code.md)
 - [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
