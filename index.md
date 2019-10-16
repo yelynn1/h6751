@@ -70,7 +70,15 @@ Lecture: MWF 11am-12pm in 150 Wheeler
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
 Fri 01/17 | Introduction | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
-
+Fri 01/17 | Machine Learning Pipeline | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) |
+Fri 01/17 | Ensemble | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | 
+Fri 01/17 | Bayesian Learning: Navie Bayes | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | 
+Fri 01/17 | Bayesian Learning: Hidden Markov Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) |
+Fri 01/17 |  From Logistic Regression to Deep Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | 
+Fri 01/17 | Autoencoder | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | 
+Fri 01/17 | Word2Vec | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) |
+Fri 01/17 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) |
+Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) |
 ### Reading material
 
 [Curated list of scientific machine learning papers](http://www.cs.colorado.edu/~paco3637/sciml-refs.html) from Paul Constantine.
