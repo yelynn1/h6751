@@ -48,7 +48,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Homework assignment folder](hwk.md)
 - [Demo computer code](code.md)
 - [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
-- [Honor Code](syllabus.md)
+- [Honor Code](honorcode.md)
 
 ## <font color='DarkOrange'>Announcement</font>
 
