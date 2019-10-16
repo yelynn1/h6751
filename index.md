@@ -16,10 +16,9 @@ In summary, the key takeaways of this course are as follows:
 
 <u>The above is the tentative content, which may be modified during the semester.</u>
 
-	
 #### Contact Information:
 
-- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)</p>
+- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: TBA
 
 
@@ -72,6 +71,7 @@ Curation criteria:
 
 General book about machine learning: [The Hundred-Page Machine Learning Book](https://leanpub.com/theMLbook), by Andriy Burkov. Relatively easy to read with a discussion of all the fundamental concepts. The book does not cover more advanced topics though.
 
+<div class="panel panel-warning">
 ### Reading by topics
 
 ### Reinforcement learning
@@ -127,3 +127,9 @@ recognition](https://link.springer.com/article/10.1023/A:1009715923555) by Burge
 - Intermediate review paper; [Introduction to Gaussian processes](https://www.ics.uci.edu/~welling/teaching/KernelsICS273B/gpB.pdf) by Mackay
 - Intermediate review paper; [Prediction with Gaussian processes from linear regression to linear prediction and beyond](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.1226&rep=rep1&type=pdf) by Williams
 - Longer review paper with an introduction to Gaussian processes on a fairly elementary level; [Gaussian processes for machine learning](https://infoscience.epfl.ch/record/161301/files/bayesgp-tut.pdf) by Seeger
+
+{: .panel-heading}
+<div class="panel-body">
+
+</div>
+</div>
