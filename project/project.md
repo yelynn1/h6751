@@ -17,6 +17,7 @@ You might look at recent deep learning publications from top-tier machine learni
 - [NLP+Twitter](https://github.com/aritter/twitter_nlp): Twitter NLP tools
 - [Chinese NLP tools](https://github.com/NLPchina/nlp-lang): NLP for Chinese text
 - [WordCloud on Industry Trends](https://goo.gl/52XZLR)
+- [Analysis on 'F.R.I.E.N.D.S'](https://github.com/shilpibhattacharyya/Friends_Analysis)
 
 #### How to get Data?
 
