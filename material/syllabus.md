@@ -45,4 +45,9 @@ Homework assignments will be posted on the website on Wednesdays and will be due
 We expect you to adhere to the University Honor Code at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course.
 
 ### Credits
-Some of the material in this course is based on other classes. We have also heavily drawn on materials and examples found online and tried our best to give credit by linking to the original source. Please contact us if you find materials where the credit is missing or that you would rather have removed.
+Some of the material in this course is based on other open classes or online resources. Some of them are listed here:
+
+- [CS224D Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/):
+- [CPSC 540 Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html): [Nandi de Freitas](https://www.cs.ubc.ca/~nando/) 
+- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html): Courses provided by Professor Hung-yi Lee, National Taiwan University 
+We have tried our best to cite these resources by giving credits to these original sources. Please contact us if you find materials where the credit is missing or that you would rather have removed.
