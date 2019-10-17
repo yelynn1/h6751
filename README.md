@@ -1,6 +1,6 @@
 ## 
 
-Course material and notes for [BT5153 Appli](https://stanford-me343.github.io), Machine Learning for Mechanical Engineering, Stanford University, Winter 2018-2019                                                 
+Course material and notes for [BT5153](https://nusmsba.github.io/), Applied Machine Learning for Business Analytics, National University of Singapore, Spring 2020                                       
 
 ### Design Reference
 
