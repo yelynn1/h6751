@@ -93,5 +93,5 @@ Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DN
 
 ## Enjoy the class and all the deadlines
 
-![credit: SG PIKACHU RUN 2017](img/PIKA.jpeg)
+![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
 
