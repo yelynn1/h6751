@@ -48,7 +48,7 @@ We expect you to adhere to the University Honor Code at all times. Failure to ad
 Slides and notebooks in this course are based on other open classes or online resources. For example, these following courses are very helpful for our course.
 
 - [CS224D Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/): a detailed introduction to cutting-edge research in Deep Learning for NLP.
-- [CPSC 540 Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html): this course focus on probabilistic machine learning, which is provided by [Nandi de Freitas](https://www.cs.ubc.ca/~nando/)
+- [CPSC 540 Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html): this course focus on probabilistic machine learning, which is provided by Professor [Nandi de Freitas](https://www.cs.ubc.ca/~nando/)
 - [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html): ML related course series (in chinese) provided by Professor Hung-yi Lee, National Taiwan University 
 
 We have tried our best to cite these resources by giving credits to these original sources. Please contact us if you find materials where the credit is missing or that you would rather have removed.
