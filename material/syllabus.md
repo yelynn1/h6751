@@ -45,7 +45,7 @@ Homework assignments will be posted on the website on Wednesdays and will be due
 We expect you to adhere to the University Honor Code at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course.
 
 ### Credits
-Slides and notebooks in this course are based on other open classes or online resources. For example, we gain lots of ideas to prepare BT5153 from the following courses:
+Slides and notebooks in this course are based on other open classes or online resources. For example, we gain lots of ideas to prepare BT5153 from the following resources:
 
 - [CS224D Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/): a detailed introduction to cutting-edge research in Deep Learning for NLP.
 - [CPSC 540 Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html): this course focus on probabilistic machine learning, which is provided by Professor [Nandi de Freitas](https://www.cs.ubc.ca/~nando/)
