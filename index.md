@@ -91,3 +91,6 @@ Fri 01/17 | Representation learning: Word2Vec | [slides](project/project.pdf), [
 Fri 01/17 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 
+## Enjoy the class and all the deadlines
+![](img/PIKA.jpeg)
+
