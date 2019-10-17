@@ -4,7 +4,7 @@
 
 ## <font color='DarkOrange'>Content</font>
 
-This module provides students a deep overview of various advanced machine learning technqiues applied to business analytics tasks. The tentative topics include machine learning pipeline, unsupervised learning, structure learning, bayesian learning, deep learning and generative models. The programming languages used will be Python.
+This module provides students a deep overview of various advanced machine learning technqiues applied to business analytics tasks. The focus of this course will be the key and intuitive idea behind machine learning models and handson examples instead of theoretical analysis. The tentative topics include machine learning pipeline, unsupervised learning, structure learning, bayesian learning, deep learning and generative models. The programming languages used will be Python.
 
 ### Contact Information:
 
