@@ -92,5 +92,6 @@ Fri 01/17 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](
 Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 
 ## Enjoy the class and all the deadlines
-![](img/PIKA.jpeg)
+
+![credit: SG PIKACHU RUN 2017](img/PIKA.jpeg)
 
