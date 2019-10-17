@@ -32,7 +32,8 @@ In summary, the key takeaways of this course are as follows:
 - Describe basic concepts and methods used in data science (E.g., data visualization, feature extraction, model ensemble, classification and clustering etc.);
 - Understand conceptually the mechanism of advanced machine learning algorithms and their applications in the real-world;
 - Select appropriate machine learning tools/ techniques to uncover patterns and relationships, extract useful knowledge and support decision making in business applications;
-- Craft a real-world problem and assemble required tools to yield meaningful solutions and conclusions.
+- Craft a real-world problem and assemble required tools to yield meaningful solutions and conclusion;
+- Have some thoughts about scaling up from thousands of data points to billions/large scale problem.
 
 <u>The above is the tentative content, which may be modified during the semester.</u>
 
