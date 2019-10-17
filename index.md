@@ -65,7 +65,7 @@ Students are expected to attend the Midterm Examination. It will be open-book an
 
 ### Group Project (50%)
 
-You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
+You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
 
 - **Credit**:
   * Project proposal (10%) 
