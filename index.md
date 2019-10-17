@@ -46,9 +46,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Class participation (5%)
+### Class Participation (5%)
 
-Class participation.
+Hope every students can actively participate in the class! 
 
 ### Assignments (25%)
 
