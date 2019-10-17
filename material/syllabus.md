@@ -49,6 +49,6 @@ Slides and notebooks in this course are based on other open classes or online re
 
 - [CS224D Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/):
 - [CPSC 540 Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html): [Nandi de Freitas](https://www.cs.ubc.ca/~nando/) 
-- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html): Courses provided by Professor Hung-yi Lee, National Taiwan University 
+- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html): Courses (in chinese) provided by Professor Hung-yi Lee, National Taiwan University 
 
 We have tried our best to cite these resources by giving credits to these original sources. Please contact us if you find materials where the credit is missing or that you would rather have removed.
