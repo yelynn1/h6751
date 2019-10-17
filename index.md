@@ -63,7 +63,7 @@ There are two assignments. One is a weekly assignment and the other is a mini fo
 
 Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
 
-### Group Project （50%）
+### [Group Project](project/project.md) (50%)
 
 You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids.
 
