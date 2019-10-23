@@ -19,10 +19,10 @@ This module provides students a deep overview of various advanced machine learni
 
 ### Reference Books
 
-The following books are helpful, but not required. 
+The following books are helpful, but not required. You will easily get these books from Internet.
 
-- [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) 
-- [Deep Learning](http://www.deeplearningbook.org/)
+- [Pattern Recognition and Machine Learning]
+- Deep Learning by *Ian Goodfellow and Yoshua Bengio and Aaron Courville*
 - [Machine Learning A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 - [Foundations of Statistical Natural Language Processing](https://www.cs.vassar.edu/~cs366/docs/Manning_Schuetze_StatisticalNLP.pdf)
 - [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
