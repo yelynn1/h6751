@@ -10,4 +10,4 @@
 5. final rank is in top 30: 1 point
 6. final rank is in top 20: 1 point
 7. final rank is in top 10: 1 point
-8.  final rank is in top 3 and is willing to prepare a 10-mins sharing session: 2 point plus prize
+8. final rank is in top 3 and is willing to prepare a 10-mins sharing session: 2 points + Mystery Big Prize
