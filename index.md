@@ -56,7 +56,7 @@ There are two assignments. One is a weekly assignment and the other is a mini fo
 
 - **Credit**:
   * Assignment 1 (10%): 
-  * [Kaggle competition]((hwk/kaggle.md)) (15%)
+  * [Kaggle competition]((hwk/kaggle.md) (15%)
  
 
 ### Midterm Exam (20%)
