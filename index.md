@@ -78,6 +78,7 @@ Lecture: LT 15
 Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
 Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
 Fri 04/21 | Reading Week | N.A. | N.A. | Group Project Final Report
+
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
