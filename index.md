@@ -46,10 +46,6 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Class Participation (5%)
-
-Hope every students can actively participate in the class! 
-
 ### Assignments (25%)
 
 There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment will be announced later. 
