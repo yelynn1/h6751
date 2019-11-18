@@ -76,7 +76,7 @@ Lecture: LT 15
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
 Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf)<br>[notebook](code/DNN SGD.ipynb)<br>[notes](note/week1.md) | N.A.
-Fri 01/24 | Machine Learning Practice | TBU | <font color='SeaGreen'>Form your team</font>
+Fri 01/24 | Machine Learning Practice | TBU | **<font color='SeaGreen'>Form your team</font>**
 Fri 01/31 | Ensemble Learning | TBU | N.A.
 Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
 Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='SeaGreen'>Group Project Proposal</font>
