@@ -29,7 +29,6 @@ The following books are helpful, but not required. You will easily get these boo
 
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
-
 ### Course material and links
 
 - [Timetable](#schedule)
