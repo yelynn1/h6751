@@ -89,7 +89,7 @@ Fri 03/27 | Generative Model  | TBU| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A.
-Fri 04/21 | Reading Week | N.A. | <font color='SeaGreen'>Final Report</font>
+Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
