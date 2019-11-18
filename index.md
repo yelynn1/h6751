@@ -80,10 +80,10 @@ Fri 01/24 | Machine Learning Pipeline | TBU | TBU | N.A.
 Fri 01/31 | Ensemble | TBU |TBU | N.A.
 Fri 02/07 | Bayesian Learning: Navie Bayes |TBU | TBU | Group Project Proposal
 Fri 02/14 | Bayesian Learning: Hidden Markov Model | TBU |TBU | Assignment 1 Released
-Fri 02/21 |  From Logistic Regression to Deep Learning | TBU | TBU | Kaggle Competition Begins
+Fri 02/21 | From Logistic Regression to Deep Learning | TBU | TBU | Kaggle Competition Begins
 Fri 02/28 |  Recess Week | N.A. | N.A. | N.A.
-Fri 03/06 | Representation Learning: Autoencoder | TBU | TBU | N.A.
-Fri 03/13 | Representation learning: Word2Vec | TBU | TBU | In-class Assignment II
+Fri 03/06 | Representation Learning: Autoencoder | TBU | TBU | In-class Midterm Exam
+Fri 03/13 | Representation learning: Word2Vec | TBU | TBU | N.A.
 Fri 03/20 | When to use CNN and RNN | TBU | TBU | Kaggle Competition Ends
 Fri 03/27 | Generative Model | TBU | TBU| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A. | N.A.
