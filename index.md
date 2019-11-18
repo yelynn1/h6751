@@ -21,7 +21,7 @@ This module provides students a deep overview of various advanced machine learni
 
 The following books are helpful, but not required. You will easily get these books from Internet.
 
-- Pattern Recognition and Machine Learning<      *Christopher Bishop*
+- Pattern Recognition and Machine Learning      *Christopher Bishop*
 - Deep Learning *Ian Goodfellow and Yoshua Bengio and Aaron Courville*
 - Machine Learning: A Probabilistic Perspective *Kevin P. Murphy*
 - Foundations of Statistical Natural Language Processing *Christopher D. Manning and Hinrich Schütze*
