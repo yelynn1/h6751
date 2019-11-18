@@ -74,7 +74,7 @@ You are required to form a project group with 4-5 members. Students can form the
 Lecture: LT 15
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
-:---   | :----: | ------------- | ------------- | -------------
+:----:  | :------  | :----: | :----: | :---------
 Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/24 | Machine Learning Practice | TBU | TBU | <font color='IndianRed'>Form your team</font>
 Fri 01/31 | Ensemble Learning | TBU |TBU | N.A.
