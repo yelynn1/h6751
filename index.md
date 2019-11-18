@@ -73,23 +73,23 @@ You are required to form a project group with 4-5 members. Students can form the
 
 Lecture: LT 15
 
-**Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment Due**
-:----:  | ------- | :----: | :----: | -------------
-Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/24 | Machine Learning Practice | TBU | TBU | <font color='IndianRed'>Form your team</font>
-Fri 01/31 | Ensemble Learning | TBU |TBU | N.A.
-Fri 02/07 | Bayesian Learning: Navie Bayes |TBU | TBU | N.A.
-Fri 02/14 | Bayesian Learning: Hidden Markov Model | TBU |TBU | <font color='IndianRed'>Group Project Proposal</font>
-Fri 02/21 | From Logistic Regression to Deep Learning | TBU | TBU | <font color='IndianRed'>Individual Assignment 1</font>
-Fri 02/28 |  Recess Week | N.A. | N.A. | N.A.
-Fri 03/06 | Representation Learning: Autoencoder | TBU | TBU | <font color='IndianRed'>In-class Midterm Exam</font>
-Fri 03/13 | Representation learning: Word2Vec | TBU | TBU | N.A.
-Fri 03/20 | When to use CNN and RNN | TBU | TBU | <font color='IndianRed'>Kaggle Competition Ends</font>
-Fri 03/27 | Generative Model | TBU | TBU| N.A.
-Fri 04/03 | Group Presentation 1 | N.A. | N.A. | N.A.
-Fri 04/10 | Good Friday | N.A. | N.A. | N.A.
-Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
-Fri 04/21 | Reading Week | N.A. | N.A. | <font color='IndianRed'>Final Report</font>
+**Date** |	**Topic** |	**Lecture** | **Assignment Due**
+:----:  | ------- | :----: | ---------------
+Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf)<br>[notebook](code/DNN SGD.ipynb)<br>[notes](note/week1.md) | N.A.
+Fri 01/24 | Machine Learning Practice | TBU | <font color='IndianRed'>Form your team</font>
+Fri 01/31 | Ensemble Learning | TBU | N.A.
+Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
+Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='IndianRed'>Group Project Proposal</font>
+Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='IndianRed'>Individual Assignment 1</font>
+Fri 02/28 |  Recess Week | N.A. | N.A.
+Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='IndianRed'>In-class Midterm Exam</font>
+Fri 03/13 | Representation learning: Word2Vec  | TBU | N.A.
+Fri 03/20 | When to use CNN and RNN  | TBU | <font color='IndianRed'>Kaggle Competition Ends</font>
+Fri 03/27 | Generative Model  | TBU| N.A.
+Fri 04/03 | Group Presentation 1 | N.A. | N.A.
+Fri 04/10 | Good Friday | N.A. | N.A.
+Fri 04/17 | Group Presentation 2 | N.A. | N.A.
+Fri 04/21 | Reading Week | N.A. | <font color='IndianRed'>Final Report</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
