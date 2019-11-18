@@ -75,11 +75,11 @@ Lecture: LT 15
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
-Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
-Fri 01/24 | Machine Learning Practice | TBU | TBU | N.A.
+Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 01/24 | Machine Learning Practice | TBU | TBU | **Form your Team**
 Fri 01/31 | Ensemble Learning | TBU |TBU | N.A.
-Fri 02/07 | Bayesian Learning: Navie Bayes |TBU | TBU | Group Project Proposal
-Fri 02/14 | Bayesian Learning: Hidden Markov Model | TBU |TBU | Assignment 1 Released
+Fri 02/07 | Bayesian Learning: Navie Bayes |TBU | TBU | N.A.
+Fri 02/14 | Bayesian Learning: Hidden Markov Model | TBU |TBU | Group Project Proposal Due Assignment 1 Released
 Fri 02/21 | From Logistic Regression to Deep Learning | TBU | TBU | Kaggle Competition Begins
 Fri 02/28 |  Recess Week | N.A. | N.A. | N.A.
 Fri 03/06 | Representation Learning: Autoencoder | TBU | TBU | In-class Midterm Exam
