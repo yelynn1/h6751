@@ -26,6 +26,7 @@ The following books are helpful, but not required. You will easily get these boo
 - Machine Learning: A Probabilistic Perspective *Kevin P. Murphy*
 - Foundations of Statistical Natural Language Processing *Christopher D. Manning and Hinrich Schütze*
 - Neural Network Methods for Natural Language Processing *Yoav Goldberg*
+- Introduction to Computation and Programming Using Python : With Application to Understanding Data *John V. Guttag* 
 
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
