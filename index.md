@@ -71,7 +71,7 @@ You are required to form a project group with 4-5 members. Students can form the
 
 ## <font color='DarkOrange'>Schedule</font>
 
-Lecture: SOC 23
+Lecture: LT 15
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
