@@ -89,6 +89,7 @@ Fri 03/27 | Generative Model | [slides](project/project.pdf), [notebook](code/DN
 Fri 04/03 | Group Presentation 1 | N.A. | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
+Fri 04/21 | Reading Week | N.A. | N.A. | Due: Group Project Final Report
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
