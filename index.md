@@ -76,16 +76,19 @@ Lecture: LT 15
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
 Fri 01/17 | Introduction | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
-Fri 01/17 | Machine Learning Pipeline | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
-Fri 01/17 | Ensemble | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A.| N.A.
-Fri 01/17 | Bayesian Learning: Navie Bayes | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
-Fri 01/17 | Bayesian Learning: Hidden Markov Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
-Fri 01/17 |  From Logistic Regression to Deep Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/17 | Representation Learning: Autoencoder | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/17 | Representation learning: Word2Vec | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/17 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-Fri 01/17 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
-
+Fri 01/24 | Machine Learning Pipeline | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
+Fri 01/31 | Ensemble | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A.| N.A.
+Fri 02/07 | Bayesian Learning: Navie Bayes | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
+Fri 02/14 | Bayesian Learning: Hidden Markov Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
+Fri 02/21 |  From Logistic Regression to Deep Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 02/28 |  Recess Week | N.A. | N.A. | N.A.
+Fri 03/06 | Representation Learning: Autoencoder | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 03/13 | Representation learning: Word2Vec | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 03/20 | When to use CNN and RNN | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 03/27 | Generative Model | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
+Fri 04/03 | Group Presentation 1 | N.A. | N.A. | N.A.
+Fri 04/10 | Good Friday | N.A. | N.A. | N.A.
+Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
