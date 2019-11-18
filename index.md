@@ -75,7 +75,7 @@ Lecture: LT 15
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
 ------------ | ------------- | ------------- | ------------- | -------------
-Fri 01/17 | Introduction | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
+Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | Form your team
 Fri 01/24 | Machine Learning Pipeline | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
 Fri 01/31 | Ensemble | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A.| N.A.
 Fri 02/07 | Bayesian Learning: Navie Bayes | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | N.A. | N.A.
