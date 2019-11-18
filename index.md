@@ -76,20 +76,20 @@ Lecture: LT 15
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
 Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf)<br>[notebook](code/DNN SGD.ipynb)<br>[notes](note/week1.md) | N.A.
-Fri 01/24 | Machine Learning Practice | TBU | ***<font color='SeaGreen'>Form your team</font>***
+Fri 01/24 | Machine Learning Practice | TBU | <font color='SeaGreen'>Form your team</font>
 Fri 01/31 | Ensemble Learning | TBU | N.A.
 Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
-Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | ***<font color='SeaGreen'>Group Project Proposal</font>***
-Fri 02/21 | From Logistic Regression to Deep Learning | TBU | ***<font color='SeaGreen'>Individual Assignment 1</font>***
+Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='SeaGreen'>Group Project Proposal</font>
+Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='SeaGreen'>Individual Assignment 1</font>
 Fri 02/28 |  Recess Week | N.A. | N.A.
-Fri 03/06 | Representation Learning: Autoencoder | TBU | ***<font color='SeaGreen'>In-class Midterm Exam</font>***
+Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
 Fri 03/13 | Representation learning: Word2Vec  | TBU | N.A.
-Fri 03/20 | When to use CNN and RNN  | TBU | ***<font color='SeaGreen'>Kaggle Competition Ends</font>***
+Fri 03/20 | When to use CNN and RNN  | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
 Fri 03/27 | Generative Model  | TBU| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A.
-Fri 04/21 | Reading Week | N.A. | ***<font color='SeaGreen'>Final Report</font>***
+Fri 04/21 | Reading Week | N.A. | <font color='SeaGreen'>Final Report</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
