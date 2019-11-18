@@ -92,25 +92,22 @@ Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
 Fri 04/21 | Reading Week | N.A. | N.A. | Final Report Due
 
 <table>
-    <tr>
-        <th rowspan="2">真实情况</th>
-        <th colspan="2">预测结果</th>
-    </tr>
-    <tr>
-        <td>正例</td>
-        <td>反例</td>
-    </tr>
-    <tr>
-        <td>正例</td>
-        <td>TP(真正例)</td>
-        <td>FN(假反例)</td>
-    </tr>
-    <tr>
-        <td>反例</td>
-        <td>FP(假正例)</td>
-        <td>TN(真反例)</td>
-    </tr>
-</table>
+        <tr>
+            <th>**Date**</th>
+            <th>**Topic**</th>
+            <th>**Lecture**</th>
+            <th>**Lecture**</th>
+            <th>**Assignment**</th>
+        </tr>
+        <tr>
+            <th>Fri 01/17</th>
+            <th>Introduction to Machine Learning</th>
+            <th>[slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) </th>
+            <th>[notes](note/week1.md) </th>
+            <th>N.A.</th>
+        </tr>
+    </table>
+    
 
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
