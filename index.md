@@ -74,7 +74,7 @@ You are required to form a project group with 4-5 members. Students can form the
 Lecture: LT 15
 
 **Date** |	**Topic** |	**Lecture** |	**Reading**	| **Assignment**
------------- | ------------- | ------------- | ------------- | -------------
+:---   | :----: | ------------- | ------------- | -------------
 Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) | [notes](note/week1.md) | N.A.
 Fri 01/24 | Machine Learning Practice | TBU | TBU | <font color='IndianRed'>Form your team</font>
 Fri 01/31 | Ensemble Learning | TBU |TBU | N.A.
@@ -90,25 +90,7 @@ Fri 04/03 | Group Presentation 1 | N.A. | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
 Fri 04/21 | Reading Week | N.A. | N.A. | Final Report Due
-
-<table>
-        <tr>
-            <th>**Date**</th>
-            <th>**Topic**</th>
-            <th>**Lecture**</th>
-            <th>**Lecture**</th>
-            <th>**Assignment**</th>
-        </tr>
-        <tr>
-            <th>Fri 01/17</th>
-            <th>Introduction to Machine Learning</th>
-            <th>[slides](project/project.pdf), [notebook](code/DNN SGD.ipynb) </th>
-            <th>[notes](note/week1.md) </th>
-            <th>N.A.</th>
-        </tr>
-    </table>
     
-
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
