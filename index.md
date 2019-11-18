@@ -79,8 +79,8 @@ Fri 01/17 | Introduction to Machine Learning | [slides](project/project.pdf), [n
 Fri 01/24 | Machine Learning Practice | TBU | TBU | <font color='IndianRed'>Form your team</font>
 Fri 01/31 | Ensemble Learning | TBU |TBU | N.A.
 Fri 02/07 | Bayesian Learning: Navie Bayes |TBU | TBU | N.A.
-Fri 02/14 | Bayesian Learning: Hidden Markov Model | TBU |TBU | Group Project Proposal Due Assignment 1 Released
-Fri 02/21 | From Logistic Regression to Deep Learning | TBU | TBU | Kaggle Competition Begins
+Fri 02/14 | Bayesian Learning: Hidden Markov Model | TBU |TBU | Group Project Proposal Due<br>Individual Assignment 1 Released
+Fri 02/21 | From Logistic Regression to Deep Learning | TBU | TBU | Individual Assignment 1 Due<br>Kaggle Competition Begins
 Fri 02/28 |  Recess Week | N.A. | N.A. | N.A.
 Fri 03/06 | Representation Learning: Autoencoder | TBU | TBU | In-class Midterm Exam
 Fri 03/13 | Representation learning: Word2Vec | TBU | TBU | N.A.
@@ -89,7 +89,28 @@ Fri 03/27 | Generative Model | TBU | TBU| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A. | N.A.
-Fri 04/21 | Reading Week | N.A. | N.A. | Group Project Final Report
+Fri 04/21 | Reading Week | N.A. | N.A. | Final Report Due
+
+<table>
+    <tr>
+        <th rowspan="2">真实情况</th>
+        <th colspan="2">预测结果</th>
+    </tr>
+    <tr>
+        <td>正例</td>
+        <td>反例</td>
+    </tr>
+    <tr>
+        <td>正例</td>
+        <td>TP(真正例)</td>
+        <td>FN(假反例)</td>
+    </tr>
+    <tr>
+        <td>反例</td>
+        <td>FP(假正例)</td>
+        <td>TN(真反例)</td>
+    </tr>
+</table>
 
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
