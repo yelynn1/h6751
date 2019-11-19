@@ -77,7 +77,7 @@ Class Venue: LT 15
 :----:  | ------- | :----: | ---------------
 Fri 01/17 | Introduction to Machine Learning | TBU | N.A.
 Fri 01/24 | Machine Learning Practice | TBU | <font color='SeaGreen'>Form your team</font>
-Fri 01/31 | Ensemble Learning | TBU | N.A.
+Fri 01/31 | Explainability-Accuracy Tradeoff| TBU | N.A.
 Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
 Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='SeaGreen'>Group Project Proposal</font>
 Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='SeaGreen'>Individual Assignment 1</font>
