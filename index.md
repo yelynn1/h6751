@@ -84,7 +84,7 @@ Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='SeaGr
 Fri 02/28 |  Recess Week | N.A. | N.A.
 Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
 Fri 03/13 | Representation learning: Word2Vec  | TBU | N.A.
-Fri 03/20 | When to use CNN and RNN  | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Fri 03/20 | Advanced DL Topics: CNN, RNN and Attention  | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
 Fri 03/27 | Generative Model  | TBU| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A.
