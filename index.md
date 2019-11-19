@@ -71,7 +71,7 @@ You are required to form a project group with 4-5 members. Students can form the
 
 ## <font color='DarkOrange'>Schedule</font>
 
-Lecture: LT 15
+Class Venue: LT 15
 
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
