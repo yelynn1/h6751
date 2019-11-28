@@ -6,13 +6,14 @@ This module aims to prepare graduate students pursuing a master degree in busine
 
 - data visualization and interpretable machine learning
 - bayesian learning
+- bayesian hyperparameter optimization
 - deep learning
 - autoencoder
 - variational autoencoder
 - convolutional neural network
 - recurrent neural network
 - generative adversarial networks (GAN)
-- attention model.
+- interpretable machine learning
 
 At the same time, we investigate several applications such as:
 
