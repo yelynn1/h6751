@@ -92,21 +92,20 @@ Class Venue: LT 15
 
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
-Fri 01/17 | Introduction to Machine Learning | TBU | N.A.
-Fri 01/24 | Machine Learning Practice | TBU | <font color='SeaGreen'>Form your team</font>
-Fri 01/31 | Explainability-Accuracy Tradeoff| TBU | N.A.
-Fri 02/07 | Bayesian Learning: Navie Bayes | TBU | N.A.
-Fri 02/14 | Bayesian Learning: Hidden Markov Model |TBU | <font color='SeaGreen'>Group Project Proposal</font>
-Fri 02/21 | From Logistic Regression to Deep Learning | TBU | <font color='SeaGreen'>Individual Assignment 1</font>
-Fri 02/28 |  Recess Week | N.A. | N.A.
-Fri 03/06 | Representation Learning: Autoencoder | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
-Fri 03/13 | Representation learning: Word2Vec  | TBU | N.A.
-Fri 03/20 | CNN and RNN | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
-Fri 03/27 | Generative Model  | TBU| N.A.
-Fri 04/03 | Group Presentation 1 | N.A. | N.A.
-Fri 04/10 | Good Friday | N.A. | N.A.
-Fri 04/17 | Group Presentation 2 | N.A. | N.A.
-Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report</font>
+Sat a.m 01/18 | Introduction to Text Mining | TBU | N.A.
+Sat a.m 02/01 | Web Scraping | TBU | <font color='SeaGreen'>Form your team</font>
+Sat p.m 02/01 | Pre-processing for Text Mining I  | TBU | N.A.
+Sat a.m 02/15 | Pre-processing for Text Mining II | TBU | N.A.
+Sat p.m 02/15 | Information Extraction |TBU | <font color='SeaGreen'>Group Project Proposal</font>
+Sat a.m 02/29 | Text Categorization I| TBU | <font color='SeaGreen'>Individual Assignment 1</font>
+Sat p.m 02/29 | Text Categorization II| N.A. | N.A.
+Sat a.m 03/21 | Document Clustering | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
+Sat p.m 03/21 | Sentiment Analysis | TBU | N.A.
+Sat a.m 04/04 | Neural Network | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Sat p.m 04/04 | Word Embeddings | TBU| N.A.
+Sat a.m 04/18 | CNN and RNN | N.A. | N.A.
+Sat p.m 04/18 | Group Presentation | N.A. | N.A.
+
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
