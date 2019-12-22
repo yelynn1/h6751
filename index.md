@@ -1,6 +1,6 @@
-# BT5153 Applied Machine Learning for Business Analytics
+# H6751 Web and Text Mining
 
-#### <center>NUS, MSBA / Spring 2020</center>
+#### <center>NTU, WKW / Spring 2020</center>
 
 ## <font color='DarkOrange'>Content</font>
 
