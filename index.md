@@ -2,20 +2,34 @@
 
 #### <center>NTU, WKW / Spring 2020</center>
 
-## <font color='DarkOrange'>Content</font>
+## <font color='Course Description'>cROUSE </font>
 
-This module provides students a deep overview of various advanced machine learning techniques applied to business analytics tasks. The focus of this course will be the key and intuitive idea behind machine learning models and hands-on examples instead of theoretical analysis. The tentative topics include machine learning pipeline, unsupervised learning, structure learning, Bayesian learning, deep learning and generative models. The programming languages used will be Python.
+Nowadays, with the popularity of the Internet, there is a massive amount of text content available on the Web, and it becomes an important resource for mining useful knowledge. From a business and government point of view, there is an increasing need to interpret and act upon the large-volume text information. Therefore, text mining (or text analytics) is getting more attention to analyze text content on the Web. For instance, opinion mining and sentiment analysis is one of text mining techniques to analyze user-generated content on social media platforms.
+
+This course is an introduction to text and web mining. It covers how to analyse unstructured data (i.e. text content) on the Web using text mining techniques. Students will learn various text mining techniques and tools both through lectures and hands-on exercises in labs. The course will also explore various usages of text mining techniques to real world applications. This course focuses on Web content mining, but not on Web structure and usage mining.
+
+Students will learn following topics in the course:
+
+* Principles and concepts of text and web mining.
+* Various text mining techniques: Pre-processing for Text Mining, Text Categorization, Document Clustering, Information Extraction, and Opinion Mining & Sentiment Analysis.
+* Practical use of text mining to real world applications, such as Text Message Spam Detection,
+and Sentiment Analysis Systems analyzing public opinion towards various subjects, such as electronic gadgets, movies, stocks, etc., using social media content.
 
 ### Contact Information:
 
 - Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: TBA
 
+### Course Description:
+
+- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
+- TA: TBA
+    `````
 ### Prerequisites:
 
-- Basic knowledge in Python programing 
-- Basic math knowledge
-- DSC5106 Foundation in Data Analytics I
+- The student has some aptitude for low-level logical thinking since lectures and labs will focus
+on technical aspects of Text and Web Mining.
+- Basic knowledge in Python programing
 
 ### Reference Books
 
