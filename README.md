@@ -1,6 +1,6 @@
 ## 
 
-Course material and notes for [BT5153](https://nusmsba.github.io/), Applied Machine Learning for Business Analytics, National University of Singapore, Spring 2020                                       
+Course material and notes for [H6751](https://nusmsba.github.io/), Text and Web Mining, Nanyang Technological University, Spring 2020                                       
 
 ### Design Reference
 
