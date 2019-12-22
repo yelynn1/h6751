@@ -2,7 +2,7 @@
 
 #### <center>NTU, WKW / Spring 2020</center>
 
-## <font color='Course Description'>cROUSE </font>
+## <font color='Red'>Course Description </font>
 
 Nowadays, with the popularity of the Internet, there is a massive amount of text content available on the Web, and it becomes an important resource for mining useful knowledge. From a business and government point of view, there is an increasing need to interpret and act upon the large-volume text information. Therefore, text mining (or text analytics) is getting more attention to analyze text content on the Web. For instance, opinion mining and sentiment analysis is one of text mining techniques to analyze user-generated content on social media platforms.
 
@@ -20,26 +20,29 @@ and Sentiment Analysis Systems analyzing public opinion towards various subjects
 - Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: TBA
 
-### Course Description:
+### Course Objectives:
 
-- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
-- TA: TBA
-    `````
+At the end of this course, students should be able to:
+
+- Appreciate the basics of text and web mining.
+- Understand the advantages and disadvantages of different text mining techniques.
+- Work on practical problems that can be solved using text mining techniques.
+
 ### Prerequisites:
 
 - The student has some aptitude for low-level logical thinking since lectures and labs will focus
 on technical aspects of Text and Web Mining.
-- Basic knowledge in Python programing
+- Basic knowledge in **Python programing**.
 
 ### Reference Books
 
 The following books are helpful, but not required. You will easily get these books from Internet.
 
-- Deep Learning *Ian Goodfellow and Yoshua Bengio and Aaron Courville*
-- Machine Learning: A Probabilistic Perspective *Kevin P. Murphy*
+
 - Foundations of Statistical Natural Language Processing *Christopher D. Manning and Hinrich Schütze*
 - Neural Network Methods for Natural Language Processing *Yoav Goldberg*
 - Introduction to Computation and Programming Using Python : With Application to Understanding Data *John V. Guttag* 
+- Applied Text Analysis with Python *Benjamin Bengfort* 
 
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
