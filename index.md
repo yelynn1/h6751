@@ -62,29 +62,18 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Assignments (30%)
+### Individual Assignments (10%)
 
-There are two assignments. One is a weekly assignment and the other is a mini four-weeks kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment will be announced later. 
+These are individual homework and lab assignments. For the lab assignments, you will be asked to submit simple lab reports during or after certain lab sessions. Note that homework and lab assignment reports handed in after the due date/time will not be marked. These assignments will account for 10% of the overall grade. Details of the individual assignment will be announced later. 
+
+### Group Project (30%)
+
+You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
+
 
 - **Credit**:
-  * Assignment 1 (15%): 
-  * [Kaggle competition](hwk/kaggle.md) (15%)
- 
-
-### Midterm Exam (20%)
-
-Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
-
-### Group Project (50%)
-
-You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
-
-- **Credit**:
-  * Project proposal (10%) 
-  * Project presentation (25%)
-  * Project final report (15%)
-
-
+  * Project report (15%) 
+  * Project presentation (15%)
 
 ## <font color='DarkOrange'>Schedule</font>
 
