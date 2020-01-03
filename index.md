@@ -17,7 +17,7 @@ and Sentiment Analysis Systems analyzing public opinion towards various subjects
 
 ### Contact Information:
 
-- Lecturer: [Zhao Rui](https://rzntu.github.io), [rui.zhao@ntu.edu.sg](mailto:rui.zhao@ntu.edu.sg) 
+- Lecturer: [Zhao Rui](https://rzntu.github.io), [rui.zhao@ntu.edu.sg](mailto:rui.zhao@ntu.edu.sg) \n
             [Chen Zhenghua](https://zhenghuantu.github.io), [zhenghua.chen@ntu.edu.sg](mailto:zhenghua.chen@ntu.edu.sg)
             
 ### Course Objectives:
