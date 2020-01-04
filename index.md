@@ -62,7 +62,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 > - *2020-01-18*: Welcome to H6751.
 > - *2019-12-01*: ~~this site has been public.~~
 
-## <font color='DarkOrange'>Assessment</font>
+## <font color='Red'>Assessment</font>
 
 ### Class Participation (5%)
 
