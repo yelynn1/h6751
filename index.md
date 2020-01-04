@@ -71,12 +71,12 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 2. **Attending two random lectures**: We are going to take attendance at two randonly-selected (non-guest) lectures in the quarter. Each is worth 1% (total 2%).
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
-### Kaggle Competition (5%)
+### Kaggle Competition (8%)
 
 H6751 will host a internal 5 weeks text mining competition. The deatils will be announced later. 
 
 
-### Individual In-class Assignment (15%)
+### Individual In-class Assignment (12%)
 
 We are going to have a two-hour in-class assignment, which covers programming. The details will be announced later. 
 
