@@ -17,7 +17,7 @@ You may conduct investigative analysis on any one of the following topics relate
 1. Report Submission: 
   - Must include a bibliography listing all references (including URLs, if any) cited
   - Length: 8-10 pages.
-  - Formatting: The use of 10-point Times font is mandatory. The formatting should be referred to [ICML styles](https://icml.cc/Conferences/2019/StyleAuthorInstructions). The word template could be found here. The latex template is provided in the [overleaf](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc). 
+  - Formatting: The use of 10-point Times font is mandatory. The formatting should be referred to [ICML style](https://icml.cc/Conferences/2019/StyleAuthorInstructions). The word template could be found [here(). The latex template is provided in the [overleaf](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc). 
   
 reports are limited to 8 pages and 10MB. Detailed instructions for preparing the paper can be found in the following example paper: example_paper.pdf
 should contain up to 3,000 words. The report must include a bibliography listing all references (including URLs, if any) cited, as well as a cover page. The report must be in both hard copy and soft copy form and handed in by the due date. The soft copy should be submitted through Turnitin. Also submit a CD containing the report, dataset, and programming code files (such as Python files) used by the project to the instructor by the due date. You are encouraged to produce high quality work as all the reports will be made available on the course web site for the benefit of the class.
