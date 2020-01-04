@@ -102,12 +102,12 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 Sat a.m 01/18 | Introduction to Text Mining | TBU | N.A.
 Sat a.m 02/01 | Pre-processing for Text Mining I | TBU |N.A
 Sat p.m 02/01 | Pre-processing for Text Mining II  | TBU | N.A.
-Sat a.m 02/15 | Information Extraction | TBU | N.A.
+Sat a.m 02/15 | Information Extraction | TBU | <font color='SeaGreen'>Kaggle Competition Starts</font>
 Sat p.m 02/15 | Text Categorization I |TBU | <font color='SeaGreen'>Project Title Submission</font>
-Sat a.m 02/29 | Text Categorization II| TBU | <font color='SeaGreen'>Individual Assignment 1</font>
+Sat a.m 02/29 | Text Categorization II| TBU | N.A.
 Sat p.m 02/29 | Document Clustering| N.A. | N.A.
-Sat a.m 03/21 | Sentiment Analysis | TBU | N.A.
-Sat p.m 03/21 | Topic Modeling | TBU | N.A.
+Sat a.m 03/21 | Sentiment Analysis | TBU | 
+Sat p.m 03/21 | Topic Modeling | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
 Sat a.m 04/04 | Neural Network | TBU | <font color='SeaGreen'>In-class Assignment</font>
 Sat p.m 04/04 | Word Embeddings | TBU| N.A.
 Sat a.m 04/18 | CNN and RNN | N.A. | N.A.
