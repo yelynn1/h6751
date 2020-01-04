@@ -51,7 +51,6 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 ### Course material and links
 
 - [Timetable](#schedule)
-- [Syllabus](material/syllabus.md)
 - [Data Science/Machine Learning](material/dspractice.md)
 - [Final project](project/project.md)
 - [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
