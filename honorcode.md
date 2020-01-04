@@ -1,27 +1,24 @@
-## Honor code
+## Honor Code
+The work that you submit for assessment in this course must be your own individual work (or the work of your group members, in the case of group projects). The NTU Academic Integrity Policy (http://academicintegrity.ntu.edu.sg/) applies to this course. It is your responsibility to familiarise yourself with the Policy and to uphold the values of academic integrity in all academic undertakings. As a matriculated student, you are committed to uphold the NTU Honour Code (http://www.ntu.edu.sg/sao/Pages/HonourCode.aspx).
 
-As a member of the National University of Singapore (NUS), a candidate is expected to
-maintain the highest standards of personal integrity and to respect the rule of law, social
-order, the rights of others and abide by the statutes, regulations and rules of the
-University as are expected of all members of the University, both within and outside the
-University.
+Acts of academic dishonesty include:
+* Plagiarism: using or passing off as one’s own, writings or ideas of someone else, without
+acknowledging or crediting the source. This includes
+  - Usingwords,images,diagrams,graphsorideasderivedfrombooks,journals,magazines,
+visual media, and the internet without proper acknowledgement;
+ - Copying work from the Internet or other sources and presenting as one’s own;
+ - Direct quoting without quotation marks, even though the source is cited;
+ - Submitting the same piece of work to different courses or to different publications.
+* Academic fraud: cheating, lying and stealing. This includes:
+  - Cheating – bringing or having access to unauthorised books or materials during an
+examination or assessment;
+  - Collusion – copying the work of another student, having another person write one’s
+assignments, or allowing another student to borrow one’s work;
+ - Falsification of data – fabricating or altering data to mislead such as changing data to get
+better experiment results;
+ - False citation – citing a source that was never utilised or attributing work to a source from
+which the referenced material was not obtained.
+* Facilitating academic dishonesty: allowing another student to copy an assignment that is
+supposed to be done individually, allowing another student to copy answers during an examination/assessment, and taking an examination/assessment or doing an assignment for another student.
 
-Students must uphold and maintain absolute academic honesty and integrity at all times.
-Forms of academic dishonesty include but are not limited to cheating, giving or receiving any
-improper aid, fabrication, plagiarism or participation in any action that compromises the
-integrity of the academic standard of the University. All students will be given a copy of
-the NUS honor code at matriculation, and will sign a pledge to abide with this code.
-
-Failure to abide by the Honor Code may be sufficient cause for expulsion from the
-University. 
-
-### Violations of the Honor Code
-
-Examples of conduct that have been regarded as being in violation of the Honor Code include:
-
-- Copying from another's examination paper or allowing another to copy from one's own paper
-- Unpermitted collaboration
-- Plagiarism
-- Revising and resubmitting a quiz or exam for regrading, without the instructor's knowledge and consent
-- Giving or receiving unpermitted aid on a take-home examination
-- Representing as one's own work the work of another
+Disciplinary actions against academic dishonesty range from a grade mark-down, failing a course to expulsion. Your work should not be copied without appropriate citation from any source, including the Internet. This policy applies to all work submitted, either through oral presentation, or written work, including outlines, briefings, group projects, self-evaluations, etc. You are encouraged to consult us if you have questions concerning the meaning of plagiarism or whether a particular use of sources constitutes plagiarism.
