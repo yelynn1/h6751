@@ -2,7 +2,22 @@
 
 
 As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. 
-More detailed instructions and the guidelines for this course project can be referred [here](project.pdf)
+
+This is a group project (the size of each group will be announced later). All team members will receive the same grade. This project will account for 30% of the overall grade. Please e-mail the lecturer your project title by the project title selection due date. Include the names of team members in the message.
+
+This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results.
+
+You may conduct investigative analysis on any one of the following topics related to text mining:
+* Text classification
+* Text clustering
+* Opining mining and sentiment analysis
+* Information Extraction
+* Other topics are possible with consent from the instructor.
+
+The report should contain up to 3,000 words. The report must include a bibliography listing all references (including URLs, if any) cited, as well as a cover page. The report must be in both hard copy and soft copy form and handed in by the due date. The soft copy should be submitted through Turnitin. Also submit a CD containing the report, dataset, and programming code files (such as Python files) used by the project to the instructor by the due date. You are encouraged to produce high quality work as all the reports will be made available on the course web site for the benefit of the class.
+For each project, each team will conduct a 15/20-minute presentation on their project work. This will be followed by a 5 minute question-and-answer session to allow for clarification by students and the lecturer. Schedules for the presentation will be announced later.
+
+The assignment is due at the beginning of the class period on due date. Note that reports and required files/documents handed in after the due date will be marked down by 10% per day.
 
 #### IDEAS INSPRIATION
 
