@@ -58,7 +58,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 ## <font color='Red'>Announcement</font>
 
 > - *2020-01-18*: Welcome to H6751.
-> - *2019-01-04*: ~~this site has been public.~~
+> - *2020-01-04*: ~~this site has been public.~~
 
 ## <font color='Red'>Assessment</font>
 
