@@ -57,9 +57,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [IVLE](https://ivle.nus.edu.sg/); used to submit your assignments (via workbin) and send important emails; **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
-## <font color='DarkOrange'>Announcement</font>
+## <font color='Red'>Announcement</font>
 
-> - *2020-01-17*: Welcome to BT5153. We hope you will enjoy it!
+> - *2020-01-18*: Welcome to H6751.
 > - *2019-12-01*: ~~this site has been public.~~
 
 ## <font color='DarkOrange'>Assessment</font>
@@ -90,7 +90,7 @@ You are required to form a project group with 3-4 members. This is a text mining
 
 We will prepare a review session before the final exam.
 
-## <font color='DarkOrange'>Schedule</font>
+## <font color='Red'>Schedule</font>
 
 Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 
