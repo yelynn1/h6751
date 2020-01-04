@@ -79,12 +79,14 @@ We are going to have a 2-hour in-class assignment, which may cover programming. 
 
 ### Group Project (30%)
 
-You are required to form a project group with 4-5 members. Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
+You are required to form a project group with 3-4 members. This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results and present your work in class. The detailed information can be found [here](project/project.md).
 
 
 - **Credit**:
   * Project report (15%) 
   * Project presentation (15%)
+
+### Final Exam (50%)
 
 ## <font color='DarkOrange'>Schedule</font>
 
