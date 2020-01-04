@@ -88,6 +88,8 @@ You are required to form a project group with 3-4 members. This is a text mining
 
 ### Final Exam (50%)
 
+We will prepare a review session before the final exam.
+
 ## <font color='DarkOrange'>Schedule</font>
 
 Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
