@@ -4,3 +4,8 @@
 
 2. [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
+3. [Gentle Introduction to Github](https://lgatto.github.io/github-intro/)
+
+4. [Creating a New GitHub Repository](https://www.youtube.com/watch?v=LR5BYZjuXMU)
+
+5. [Welcome to Kaggle](https://www.kaggle.com/c/titanic)
