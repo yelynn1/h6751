@@ -73,7 +73,7 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 
 ### Kaggle Competition (5%)
 
-H6751 will host a internal text mining competition. The deatils will be announced later. 
+H6751 will host a internal 5 weeks text mining competition. The deatils will be announced later. 
 
 
 ### Individual In-class Assignment (15%)
