@@ -19,7 +19,7 @@ You may conduct investigative analysis on any one of the following topics relate
   - Length: 8-10 pages.
   - Formatting: The use of 10-point Times font is mandatory. The formatting should be referred to [ICML style](https://icml.cc/Conferences/2019/StyleAuthorInstructions). The word template could be found [here(). The latex template is provided in the [overleaf](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc). 
   - Only require the soft copy. The soft copy should be submitted through Turnitin. 
-  - Create your github project page that containing dataset and code used by the project. And put your github page link in your report.
+  - Create your github project page that containing dataset and code used by the project. And put your github repo link in your report.
 
 2. Group Presentation: 
   - Each team will be asked to conduct a 15/20-minute presentation on their project work. This will be followed by a 5 minute question-and-answer session to allow for clarification by students and the lecturer. Schedules for the presentation will be announced later.
