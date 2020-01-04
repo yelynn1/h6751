@@ -73,9 +73,9 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
 
-### Individual In-class Assignment (15%)
+### Individual In-class Assignment (20%)
 
-We are going to have a 2-hour in-class assignment, which may cover programming. The details will be announced later. 
+We are going to have a 2 in-class assignments, which will cover programming. The details will be announced later. 
 
 ### Group Project (30%)
 
@@ -86,7 +86,7 @@ You are required to form a project group with 3-4 members. This is a text mining
   * Project report (15%) 
   * Project presentation (15%)
 
-### Final Exam (50%)
+### Final Exam (45%)
 
 We will prepare a review session before the final exam.
 
