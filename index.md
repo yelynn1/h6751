@@ -64,9 +64,11 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Individual Assignments (10%)
+### Class Participation (5%)
 
-These are individual homework and lab assignments. For the lab assignments, you will be asked to submit simple lab reports during or after certain lab sessions. Note that homework and lab assignment reports handed in after the due date/time will not be marked. These assignments will account for 10% of the overall grade. Details of the individual assignment will be announced later. 
+### Individual In-class Assignment (15%)
+
+We are going to have a in-class assignment, which will involving programming. The duration of the assignment will be 2hours. The details will be announced later. 
 
 ### Group Project (30%)
 
