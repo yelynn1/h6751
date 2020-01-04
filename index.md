@@ -79,7 +79,7 @@ You are required to form a project group with 4-5 members. Your project task is 
 
 ## <font color='DarkOrange'>Schedule</font>
 
-Class Venue: LT 15
+Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
