@@ -96,18 +96,19 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
 Sat a.m 01/18 | Introduction to Text Mining | TBU | N.A.
-Sat a.m 02/01 | Pre-processing for Text Mining I | TBU | <font color='SeaGreen'>Form your team</font>
+Sat a.m 02/01 | Pre-processing for Text Mining I | TBU |N.A
 Sat p.m 02/01 | Pre-processing for Text Mining II  | TBU | N.A.
 Sat a.m 02/15 | Information Extraction | TBU | N.A.
-Sat p.m 02/15 | Text Categorization I |TBU | <font color='SeaGreen'>Group Project Proposal</font>
+Sat p.m 02/15 | Text Categorization I |TBU | <font color='SeaGreen'>Project Title Submission</font>
 Sat a.m 02/29 | Text Categorization II| TBU | <font color='SeaGreen'>Individual Assignment 1</font>
 Sat p.m 02/29 | Document Clustering| N.A. | N.A.
-Sat a.m 03/21 | Sentiment Analysis | TBU | <font color='SeaGreen'>In-class Midterm Exam</font>
-Sat p.m 03/21 | Topic Modeling | TBU | N.A.
-Sat a.m 04/04 | Neural Network | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Sat a.m 03/21 | Sentiment Analysis | TBU | N.A.
+Sat p.m 03/21 | Topic Modeling | TBU | <font color='SeaGreen'>In-class Assignment</font>
+Sat a.m 04/04 | Neural Network | TBU | N.A.
 Sat p.m 04/04 | Word Embeddings | TBU| N.A.
 Sat a.m 04/18 | CNN and RNN | N.A. | N.A.
 Sat p.m 04/18 | Group Presentation | N.A. | N.A.
+Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
     
 
