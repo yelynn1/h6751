@@ -66,9 +66,16 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ### Class Participation (5%)
 
+We aapreciate everyone being actively involved in the class! There are serveral ways of earning participation credit, which is capped at 5%:
+
+1. Attending guest speakers' lectures: In the semester, we have two invitied speakers, who are making a great efforts to come lecture for us. We do not want them speaking to a empty room. Your attendance at lectures with guest spearks is expected! In addition, it will be a very awesome chance for networking! You will get 1% per speark (total 2%) for attending.
+2. Attending two random lectures: we are going to take attendance at two randonly-selected (non-guest) lectures in the quarter. Each is worth 1% (total 2%).
+3. Karma Point: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
+
+
 ### Individual In-class Assignment (15%)
 
-We are going to have a in-class assignment, which will involving programming. The duration of the assignment will be 2hours. The details will be announced later. 
+We are going to have a 2-hour in-class assignment, which may cover programming. The details will be announced later. 
 
 ### Group Project (30%)
 
