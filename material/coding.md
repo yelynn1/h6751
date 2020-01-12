@@ -1,8 +1,10 @@
 ## Python Resources
 
-In BT5153, you are suggested to run your code in [Jupyter Notebook](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46), which is the environment for our hands-on session. 
+In H6751, you are suggested to run your code in [Jupyter Notebook](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46), which is the environment for our hands-on session. 
  
-Please make sure that scikit-learn, pandas, matplotlib, hmmlearn and keras (and their dependencies) are installed on your system. It is recommended to first create a virtual environment followed by installing the necessary packages. You should include a [requirements.txt](https://pip.pypa.io/en/stable/user_guide/) in your submissions. 
+Please make sure that scikit-learn, pandas, matplotlib, hmmlearn and keras (and their dependencies) are installed on your system. It is recommended to first create a virtual environment followed by installing the necessary packages.
+
+You may refer to the previous [documentation](lab_note.pdf).
 
 Python 3 is required.
 - [Notebook for Python 3 Basic](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)

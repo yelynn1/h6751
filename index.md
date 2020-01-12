@@ -98,18 +98,18 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
-Sat a.m 01/18 | Introduction to Text Mining | TBU | N.A.
-Sat a.m 02/01 | Pre-processing for Text Mining I | TBU |N.A
-Sat p.m 02/01 | Pre-processing for Text Mining II  | TBU | N.A.
-Sat a.m 02/15 | Information Extraction | TBU | <font color='SeaGreen'>Kaggle Competition Starts</font>
-Sat p.m 02/15 | Text Categorization I |TBU | <font color='SeaGreen'>Project Title Submission</font>
-Sat a.m 02/29 | Text Categorization II| TBU | N.A.
-Sat p.m 02/29 | Document Clustering| TBU | N.A.
-Sat a.m 03/21 | Sentiment Analysis | TBU | 
-Sat p.m 03/21 | Topic Modeling | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
-Sat a.m 04/04 | Neural Network | TBU | <font color='SeaGreen'>In-class Assignment</font>
-Sat p.m 04/04 | Word Embeddings | TBU| N.A.
-Sat a.m 04/18 | CNN and RNN | TBU | N.A.
+Sat a.m 01/18 | Introduction to Text Mining | [LINK](note/blogs01.md) | N.A.
+Sat a.m 02/01 | Pre-processing for Text Mining I | LINK |N.A
+Sat p.m 02/01 | Pre-processing for Text Mining II  | LINK | N.A.
+Sat a.m 02/15 | Information Extraction | LINK | <font color='SeaGreen'>Kaggle Competition Starts</font>
+Sat p.m 02/15 | Text Categorization I |LINK | <font color='SeaGreen'>Project Title Submission</font>
+Sat a.m 02/29 | Text Categorization II| LINK | N.A.
+Sat p.m 02/29 | Document Clustering| LINK | N.A.
+Sat a.m 03/21 | Sentiment Analysis | LINK | 
+Sat p.m 03/21 | Topic Modeling | LINK | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Sat a.m 04/04 | Neural Network | LINK | <font color='SeaGreen'>In-class Assignment</font>
+Sat p.m 04/04 | Word Embeddings | LINK| N.A.
+Sat a.m 04/18 | CNN and RNN | LINK | N.A.
 Sat p.m 04/18 | Group Presentation | N.A. | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
