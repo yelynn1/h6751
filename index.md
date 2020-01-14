@@ -106,7 +106,7 @@ Sat p.m 02/15 | Text Categorization I |LINK | <font color='SeaGreen'>Project Tit
 Sat a.m 02/29 | Text Categorization II| LINK | N.A.
 Sat p.m 02/29 | Document Clustering| LINK | N.A.
 Sat a.m 03/21 | Sentiment Analysis | LINK | 
-Sat p.m 03/21 | Topic Modeling | LINK | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Sat p.m 03/21 | Hidden Markov Model| LINK | <font color='SeaGreen'>Kaggle Competition Ends</font>
 Sat a.m 04/04 | Neural Network | LINK | <font color='SeaGreen'>In-class Assignment</font>
 Sat p.m 04/04 | Word Embeddings | LINK| N.A.
 Sat a.m 04/18 | CNN and RNN | LINK | N.A.
