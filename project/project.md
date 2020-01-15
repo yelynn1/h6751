@@ -3,7 +3,7 @@
 
 As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. 
 
-This is a group project. All team members will receive the same grade. This project will account for 30% of the overall grade. Please e-mail the lecturer your project title by the project title selection due date. Include the names of team members in the message.
+This is a group project. All team members will receive the same grade. This project will account for 30% of the overall grade. 
 
 This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results.
 
@@ -13,6 +13,7 @@ You may conduct investigative analysis on any one of the following topics relate
 * Opining mining and sentiment analysis
 * Information Extraction
 * Other topics are possible with consent from the instructor.
+
 
 1. Report Submission: 
   - Must include a bibliography listing all references (including URLs, if any) cited
@@ -39,7 +40,6 @@ You might look at recent deep learning publications from top-tier machine learni
 - [Kaggle challenges](https://www.kaggle.com): An online machine learning competition website
 - [NLP+Twitter](https://github.com/aritter/twitter_nlp): Twitter NLP tools
 - [Chinese NLP tools](https://github.com/NLPchina/nlp-lang): NLP for Chinese text
-- [WordCloud on Industry Trends](https://goo.gl/52XZLR)
 - [Analysis on 'F.R.I.E.N.D.S'](https://github.com/shilpibhattacharyya/Friends_Analysis)
 
 #### How to get Data?
