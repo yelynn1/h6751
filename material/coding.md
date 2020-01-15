@@ -1,6 +1,8 @@
 ## Python Resources
 
 In H6751, you are suggested to run your code in [Jupyter Notebook](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46), which is the environment for our hands-on session. 
+
+All data used in this course are uploaded to the NTULearn system, i.e., the **data** folder.
  
 Please make sure that scikit-learn, pandas, matplotlib, hmmlearn and keras (and their dependencies) are installed on your system. It is recommended to first create a virtual environment followed by installing the necessary packages.
 
