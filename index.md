@@ -92,7 +92,7 @@ We will prepare a review session before the final exam.
 
 Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 
-**Date** |	**Topic** |	**Lecture** | **Assignment Due**
+**Date** |	**Topic** |	**Material** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
 Sat a.m 01/18 | Introduction to Text Mining | [LINK](note/blogs01.md) | N.A.
 Sat a.m 02/01 | Pre-processing for Text Mining I | LINK |N.A
