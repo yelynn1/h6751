@@ -101,12 +101,12 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 Sat a.m 01/18 | Introduction to Text Mining | [LINK](note/blogs01.md) | N.A.
 Sat a.m 02/01 | Pre-processing for Text Mining I | LINK |N.A
 Sat p.m 02/01 | Pre-processing for Text Mining II  | LINK | N.A.
-Sat a.m 02/15 | Information Extraction | LINK | <font color='SeaGreen'>Kaggle Competition Starts</font>
-Sat p.m 02/15 | Text Categorization I |LINK | <font color='SeaGreen'>Project Title Submission</font>
+Sat a.m 02/15 | Information Extraction | LINK | N.A.
+Sat p.m 02/15 | Text Categorization I |LINK | N.A.
 Sat a.m 02/29 | Text Categorization II| LINK | N.A.
-Sat p.m 02/29 | Document Clustering| LINK | N.A.
+Sat p.m 02/29 | Document Clustering| LINK | <font color='SeaGreen'>Project Title Submission</font>
 Sat a.m 03/21 | Sentiment Analysis | LINK | 
-Sat p.m 03/21 | Hidden Markov Model| LINK | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Sat p.m 03/21 | Hidden Markov Model| LINK | 
 Sat a.m 04/04 | Neural Network | LINK | <font color='SeaGreen'>In-class Assignment</font>
 Sat p.m 04/04 | Word Embeddings | LINK| N.A.
 Sat a.m 04/18 | CNN and RNN | LINK | N.A.
