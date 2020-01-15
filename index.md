@@ -58,6 +58,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 ## <font color='Red'>Announcement</font>
 
 > - *2020-01-18*: Welcome to H6751.
+> - *2020-01-16*: [Group Project Team Table](https://docs.google.com/spreadsheets/d/1V93TaLzOjVksmbdAsAfB20KkY9aeNJKpH3Vm-ZH3G2Y/edit?usp=sharing)
 > - *2020-01-04*: ~~this site has been public.~~
 
 ## <font color='Red'>Assessment</font>
