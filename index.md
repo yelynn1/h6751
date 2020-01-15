@@ -76,7 +76,7 @@ We are going to have a two-hour in-class assignment, which covers programming. T
 
 ### Group Project (30%)
 
-You are required to form a project group with 3-4 members. This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results and present your work in class. The detailed information can be found [here](project/project.md).
+You are required to form a project group with 2-3 members. This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results and present your work in class. The detailed information can be found [here](project/project.md).
 
 
 - **Credit**:
