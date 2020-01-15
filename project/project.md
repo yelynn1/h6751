@@ -3,7 +3,7 @@
 
 As a significant portion of your grade, the Course Project provide you the chance to flex your newly acquired skills toward an application of your choosing. What is more, people from different background are encouraged to form a team. 
 
-This is a group project (the size of each group will be announced later). All team members will receive the same grade. This project will account for 30% of the overall grade. Please e-mail the lecturer your project title by the project title selection due date. Include the names of team members in the message.
+This is a group project. All team members will receive the same grade. This project will account for 30% of the overall grade. Please e-mail the lecturer your project title by the project title selection due date. Include the names of team members in the message.
 
 This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results.
 
