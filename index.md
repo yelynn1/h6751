@@ -70,21 +70,17 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 2. **Attending two random lectures**: We are going to take attendance at two randonly-selected (non-guest) lectures in the quarter. Each is worth 1% (total 2%).
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
-### Kaggle Competition (8%)
-
-H6751 will host a internal 5 weeks text mining competition. The deatils will be announced later. 
-
-
-### Individual In-class Assignment (12%)
+### Individual In-class Assignment (15%)
 
 We are going to have a two-hour in-class assignment, which covers programming. The details will be announced later. 
 
-### Group Project (25%)
+### Group Project (30%)
 
 You are required to form a project group with 3-4 members. This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results and present your work in class. The detailed information can be found [here](project/project.md).
 
 
 - **Credit**:
+  * Project proposal (5%) 
   * Project report (15%) 
   * Project presentation (10%)
 
