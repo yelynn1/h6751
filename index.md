@@ -102,7 +102,7 @@ Sat p.m 02/15 | Text Categorization I | LINK | <font color='SeaGreen'>Project Pr
 Sat a.m 02/29 | Text Categorization II| LINK | N.A.
 Sat p.m 02/29 | Document Clustering| LINK | N.A.
 Sat a.m 03/21 | Sentiment Analysis | LINK | N.A.
-Sat p.m 03/21 | Deep Learning | LINK |  N.A.
+Sat p.m 03/21 | Introduction to Deep Learning | LINK |  N.A.
 Sat a.m 04/04 | Word Embeddings | LINK | N.A.
 Sat p.m 04/04 | Recurrent Neural Network | LINK | <font color='SeaGreen'>In-class Assignment</font>
 Sat a.m 04/18 | Convolutional Neural Network | LINK | N.A.
