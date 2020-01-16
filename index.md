@@ -53,6 +53,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Timetable](#schedule)
 - [Final project](project/project.md)
 - [Useful Tips](material/dspractice.md)
+- [Syllabus](material/H67512020.pdf)
 - [Honor Code](honorcode.md)
 
 ## <font color='Red'>Announcement</font>
