@@ -69,7 +69,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 We aapreciate everyone being actively involved in the class! There are serveral ways of earning participation credit, which is capped at 5%:
 
 1. **Attending guest speakers' lectures**: In the semester, we have two invitied speakers, who are making a great efforts to come lecture for us. We do not want them speaking to a empty room. Your attendance at lectures with guest spearks is expected! In addition, it will be a very awesome chance for networking! You will get 1% per speark (total 2%) for attending.
-2. **Attending two random lectures**: We are going to take attendance at two randonly-selected (non-guest) lectures in the quarter. Each is worth 1% (total 2%).
+
+2. Instructors are going to pick students for questions during class. One point will be deducted for absence for each question. Each student all have a total of 2 points.
+
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
 ### Individual In-class Assignment (15%)
@@ -96,8 +98,8 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 **Date** |	**Topic** |	**Material** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
 Sat a.m 01/18 | Introduction to Text Mining | [LINK](note/blogs01.md) | N.A.
-Sat a.m 02/01 | Pre-processing for Text Mining I | LINK | N.A
-Sat p.m 02/01 | Pre-processing for Text Mining II  | LINK | <font color='SeaGreen'>Form a Group</font>
+Sat a.m 02/01 | Pre-processing for Text Mining I | [LINK](note/blogs02.md) | N.A
+Sat p.m 02/01 | Pre-processing for Text Mining II  | [LINK](note/blogs03.md) | <font color='SeaGreen'>Form a Group</font>
 Sat a.m 02/15 | Information Extraction | LINK | N.A.
 Sat p.m 02/15 | Text Categorization I | LINK | <font color='SeaGreen'>Project Proposal Submission</font>
 Sat a.m 02/29 | Text Categorization II| LINK | N.A.
