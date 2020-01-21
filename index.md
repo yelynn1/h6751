@@ -70,7 +70,7 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 
 1. **Attending guest speakers' lectures**: In the semester, we have two invitied speakers, who are making a great efforts to come lecture for us. We do not want them speaking to a empty room. Your attendance at lectures with guest spearks is expected! In addition, it will be a very awesome chance for networking! You will get 1% per speark (total 2%) for attending.
 
-2. Instructors are going to pick students for questions during class. One point will be deducted for absence for each question. Each student all have a total of 2 points.
+2. Instructors are going to pick students for questions during class. One point will be deducted for absence. Each student has a total of 2 points.
 
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
