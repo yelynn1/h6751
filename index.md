@@ -100,9 +100,9 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 Sat a.m 01/18 | Introduction to Text Mining | [LINK](note/blogs01.md) | N.A.
 Sat a.m 02/01 | Pre-processing for Text Mining I | [LINK](note/blogs02.md) | N.A
 Sat p.m 02/01 | Pre-processing for Text Mining II  | [LINK](note/blogs03.md) | <font color='SeaGreen'>Form a Group</font>
-Sat a.m 02/15 | Information Extraction | LINK | N.A.
-Sat p.m 02/15 | Text Categorization I | LINK | <font color='SeaGreen'>Project Proposal Submission</font>
-Sat a.m 02/29 | Text Categorization II| LINK | N.A.
+Sat a.m 02/15 | Text Categorization I | [LINK](note/blogs04.md) | [Self Study](note/blogsie.md)
+Sat p.m 02/15 | Text Categorization II  | [LINK](note/blogs05.md) | <font color='SeaGreen'>Project Proposal Submission</font>
+Sat a.m 02/29 | Text Categorization III | LINK | N.A.
 Sat p.m 02/29 | Document Clustering| LINK | N.A.
 Sat a.m 03/21 | Sentiment Analysis | LINK | N.A.
 Sat p.m 03/21 | Introduction to Deep Learning | LINK |  N.A.
