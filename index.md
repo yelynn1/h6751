@@ -102,8 +102,8 @@ Sat a.m 02/01 | Pre-processing for Text Mining I | [LINK](note/blogs02.md) | N.A
 Sat p.m 02/01 | Pre-processing for Text Mining II  | [LINK](note/blogs03.md) | <font color='SeaGreen'>Form a Group</font>
 Sat a.m 02/15 | Text Categorization I | [LINK](note/blogs04.md) | [E-learning](note/blogsie.md)
 Sat p.m 02/15 | Text Categorization II  | [LINK](note/blogs05.md) | <font color='SeaGreen'>Project Proposal Submission</font>
-Sat a.m 02/29 | Text Categorization III | LINK | N.A.
-Sat p.m 02/29 | Document Clustering| LINK | N.A.
+Sat a.m 02/29 | Text Categorization III | [LINK](note/blogs06.md) | N.A.
+Sat p.m 02/29 | Document Clustering| [LINK](note/blogs07.md) | N.A.
 Sat a.m 03/21 | Sentiment Analysis | LINK | N.A.
 Sat p.m 03/21 | Introduction to Deep Learning | LINK |  N.A.
 Sat a.m 04/04 | Word Embeddings | LINK | N.A.
