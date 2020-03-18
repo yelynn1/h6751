@@ -5,6 +5,7 @@ We are hosting a in-class Kaggle competition. The competition is a text categori
 ### What will be the competition be like?
 
 - Binary classification of text
+- Start from **21 March 2020**
 - Due in 2 weeks, i.e. **04 April 2020 17:00 Singapore time**
 - Given a training dataset, make predictions on a test dataset
 - You can make submissions in .csv format up to 5x per day
