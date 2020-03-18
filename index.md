@@ -110,7 +110,7 @@ Sat a.m 04/04 | Word Embeddings | LINK | Guest Speaker: [Li Pengfei](https://www
 Sat p.m 04/04 | Recurrent Neural Network | LINK | <font color='SeaGreen'>Kaggle Ends</font>
 Sat a.m 04/18 | Convolutional Neural Network | LINK | Guest Speaker: [Weng Quanchi](https://www.linkedin.com/in/quanchi-weng-10822711a/?originalSubdomain=sg)
 Sat p.m 04/18 | Course Summary | N.A. | <font color='SeaGreen'>In-class Assignment (online)</font>
-Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
+Sat p.m 05/02 | N.A | N.A. |<font color='SeaGreen'>Project Paper & Recorded Video Submission</font>
 
     
 
