@@ -74,22 +74,22 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
-### Individual In-class Assignment (15%)
+### Individual In-class Assignment (25%)
 
 We are going to have a 90-minutes in-class assignment, which covers programming. The details will be announced later. 
 
-### Group Project (30%)
+### Group Project (40%)
 
 You are required to form a project group with 3-4 members. This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results and present your work in class. The detailed instructions and the guidelines for this course project could be found [here](project/h6751_guidlines_grading.pdf). Some project ideas have been provided [here](project/project.md)
 
 - **Credit**:
   * Project proposal (5%) 
-  * Project report (15%) 
-  * Project presentation (10%)
+  * Project report (20%) 
+  * Project presentation (15%)
 
-### Final Exam (50%)
+### In-class Kaggle Competition(30%)
 
-We will prepare a review session before the final exam.
+See the [page](project/kaggle.md) for more details.
 
 ## <font color='Red'>Schedule</font>
 
@@ -105,11 +105,11 @@ Sat p.m 02/15 | Text Categorization II  | [LINK](note/blogs05.md) | <font color=
 Sat a.m 02/29 | Text Categorization III | [LINK](note/blogs06.md) | N.A.
 Sat p.m 02/29 | Document Clustering| [LINK](note/blogs07.md) | N.A.
 Sat a.m 03/21 | Sentiment Analysis | LINK | N.A.
-Sat p.m 03/21 | Introduction to Deep Learning | LINK |  N.A.
+Sat p.m 03/21 | Introduction to Deep Learning | LINK | <font color='SeaGreen'>Kaggle Starts</font>
 Sat a.m 04/04 | Word Embeddings | LINK | N.A.
-Sat p.m 04/04 | Recurrent Neural Network | LINK | <font color='SeaGreen'>In-class Assignment</font>
-Sat a.m 04/18 | Convolutional Neural Network | LINK | N.A.
-Sat p.m 04/18 | Group Presentation | N.A. | N.A.
+Sat p.m 04/04 | Recurrent Neural Network | LINK | <font color='SeaGreen'>Kaggle Ends</font>
+Sat a.m 04/18 | Convolutional Neural Network | LINK | <font color='SeaGreen'>In-class Assignment</font>
+Sat p.m 04/18 | Course Summary | N.A. | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
     
