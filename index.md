@@ -104,8 +104,8 @@ Sat a.m 02/15 | Text Categorization I | [LINK](note/blogs04.md) | [E-learning](n
 Sat p.m 02/15 | Text Categorization II  | [LINK](note/blogs05.md) | <font color='SeaGreen'>Project Proposal Submission</font>
 Sat a.m 02/29 | Text Categorization III | [LINK](note/blogs06.md) | N.A.
 Sat p.m 02/29 | Document Clustering| [LINK](note/blogs07.md) | N.A.
-Sat a.m 03/21 | Sentiment Analysis | LINK | N.A.
-Sat p.m 03/21 | Introduction to Deep Learning | LINK | <font color='SeaGreen'>Kaggle Starts</font>
+Sat a.m 03/21 | Sentiment Analysis | [LINK](note/blogs08.md) | N.A.
+Sat p.m 03/21 | Introduction to Deep Learning | [LINK](note/blogs09.md) | <font color='SeaGreen'>Kaggle Starts</font>
 Sat a.m 04/04 | Word Embeddings | LINK | Guest Speaker: [Li Pengfei](https://www.linkedin.com/in/li-pengfei-44454080/?originalSubdomain=sg)
 Sat p.m 04/04 | Recurrent Neural Network | LINK | <font color='SeaGreen'>Kaggle Ends</font>
 Sat a.m 04/18 | Convolutional Neural Network | LINK | Guest Speaker: [Weng Quanchi](https://www.linkedin.com/in/quanchi-weng-10822711a/?originalSubdomain=sg)
