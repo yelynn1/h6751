@@ -14,7 +14,7 @@ We are hosting a in-class Kaggle competition. The competition is a text categori
 - At the end of the competition, you will be ranked on a private leaderboard
 - The private leaderboard is based on the other 70% of your submission
 - You may select 2 submissions for the final private leaderboard ranking
-- Here is the competition [link]()
+- Here is the competition [link](https://www.kaggle.com/t/4a2ade3f366a4deb844d697657e23147)
 
 
 ### How will we be graded?
