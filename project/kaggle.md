@@ -28,7 +28,7 @@ Half of your grade for this Kaggle competition will be determined by your rankin
 
 You will be awarded 5 points out of 15 available in this component if your submission outperforms our very simple baseline.
 
-The other 8 points will be awarded based on your relative ranking.
+The other 10 points will be awarded based on your relative ranking.
 
 #### 2. Report (15%)
 
