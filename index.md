@@ -76,7 +76,7 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 
 ### Individual In-class Assignment (25%)
 
-We are going to have a 90-minutes in-class assignment, which covers programming. The details will be announced later. 
+We are going to have a 90-minutes in-class assignment, which covers programming. You can refer to the [template](project/template.zip) 
 
 ### Group Project (40%)
 
