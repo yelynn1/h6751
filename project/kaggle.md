@@ -6,7 +6,7 @@ We are hosting a in-class Kaggle competition. The competition is a text categori
 
 - Binary classification of text
 - Start from **21 March 2020**
-- Due in 2 weeks, i.e. **04 April 2020 17:00 Singapore time**
+- Due in 2 weeks, i.e. **05 April 2020 17:00 Singapore time**
 - Given a training dataset, make predictions on a test dataset
 - You can make submissions in .csv format up to 5x per day
 - Your top accuracy score will be ranked on a public leaderboard
@@ -32,7 +32,7 @@ The other 10 points will be awarded based on your relative ranking.
 
 #### 2. Report (15%)
 
-The other half of your grade is accounted for by a report to be submitted a week after the Kaggle competition closes, i.e. **11 April 2020 17:00 Singapore time**.
+The other half of your grade is accounted for by a report to be submitted a week after the Kaggle competition closes, i.e. **18 April 2020 17:00 Singapore time**.
 
 Name your report with your NTU Student Number, i.e. G0123456Z.pdf
 
