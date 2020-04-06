@@ -74,6 +74,8 @@ We aapreciate everyone being actively involved in the class! There are serveral 
 
 3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
 
+Based on the saved chat files in Zoom, the active student list is provided [here](material/karma_points.csv) with two columns: zoom id and all active comments (via regular expression and some hand-crafted rules).  If you found your zoom ID is in the provided CSV, pls email the lecturer: Zhao Rui with your zoom ID in the list and your ntu student ID. 
+
 ### Individual In-class Assignment (25%)
 
 We are going to have a 90-minutes in-class assignment, which covers programming. You can refer to the [template](project/template.zip). This online assignment will test materials covered until Week 9 (Introduction to deep learning).
