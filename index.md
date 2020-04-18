@@ -111,7 +111,7 @@ Sat p.m 03/21 | Introduction to Deep Learning | [LINK](note/blogs09.md) | <font 
 Sat a.m 04/04 | Word Embeddings | [LINK](note/blogs10.md) | Guest Speaker: [Li Pengfei](https://www.linkedin.com/in/li-pengfei-44454080/?originalSubdomain=sg)
 Sat p.m 04/04 | Recurrent Neural Network | [LINK](note/blogs11.md) | <font color='SeaGreen'>Kaggle Ends</font>
 Sat a.m 04/18 | Convolutional Neural Network | [LINK](note/blogs12.md) | Guest Speaker: [Weng Quanchi](https://www.linkedin.com/in/quanchi-weng-10822711a/?originalSubdomain=sg)
-Sat p.m 04/18 | Course Summary | N.A. | <font color='SeaGreen'>In-class Assignment (online)</font>
+Sat p.m 04/18 | [Course Summary](slides/w13.pdf) | N.A. | <font color='SeaGreen'>In-class Assignment (online)</font>
 Sat p.m 05/02 | N.A | N.A. |<font color='SeaGreen'>Project Paper & Recorded Video Submission</font>
 
     
