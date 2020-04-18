@@ -91,7 +91,7 @@ You are required to form a project group with 3-4 members. This is a text mining
 
 ### In-class Kaggle Competition(30%)
 
-See the [page](project/kaggle.md) for more details.
+See the [page](project/kaggle.md) for more details. And check the kaggle [summary](project/kaggle_summary.md).
 
 ## <font color='Red'>Schedule</font>
 
