@@ -1,0 +1,16 @@
+,name,comment
+0,Rajeshwer S,"larger window size,i agree,oh ok ok. sorry,occur close to each other more often,can we make the input size as vocabsize*windowsize cbow and input all of the words at the same time?,in cbow,got it got it,can you say what is required for preparation on in-class assignment?,10 is the number of classes,how do we define more than one hidden layers in the functional method?,as in how does it get the order,oh got it"
+1,koh swee guan,"k bigger,similarity,vanish,do we need to select for private leadership board?,take care everyone!,i don't think so,how do we determine the appropriate learning rate?,is it trial and error?,any reason why only 5 times a day?,i thought the whole idea is trial and error for certain parameters,how do we decide what is d?,does that mean that rnn and cnn would get better results?,+=1/6, -ve=1/3"
+2,Thant,"the code need to submit this week or submit together with report.,neeb more model parameter b,is there any restriction for algorithm?,can we add more training and testing data?,1/6, 1/3"
+15,qin,"how to determine a0 and a1? why they equals to 2?,[4 4] [16 16] [36 36]"
+18,JONALIS,vanish
+23,JONALIS001,not yet
+27,Ye Lynn Khant,"it works,can use boosting?"
+38,qin wt,"m by d,p(h)=1,1/6,2/3,1/6,1/3,sorry typo"
+43,Jerry Choo,p(h|d)=0.08
+44,Zi Qin Liew,p(h) = p(d)
+47,Aye Chan Moe,"1/6, 1/3,1/27, 0"
+49,"Lu Wei, Jacky","1/6, 1/3,0.024, 0"
+50,May TZ,1/6 and 1/3
+52,Phu Wai Paing,"1/6, 1/3"
+54,Ashish Narmen,1/6 and 1/3
